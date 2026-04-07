@@ -183,3 +183,4 @@ cython_debug/
 
 #Data Directory
 /Scrapped_Bloomberg_Transcripts
+sentiment_analysis/tempCodeRunnerFile.py

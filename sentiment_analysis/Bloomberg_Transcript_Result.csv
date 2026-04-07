@@ -1,0 +1,3670 @@
+Date,LLM Response
+11_05_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":0.18,""Consumer Staples"":0.02,""Energy"":0.08,""Financials"":0.05,""Health Care"":0.01,""Industrials"":0.09,""Information Technology"":0.2,""Materials"":0.04,""Real Estate"":-0.03,""Utilities"":0.0}"
+02_02_2024,"{
+  ""communication_services"": 0.82,
+  ""consumer_discretionary"": 0.68,
+  ""consumer_staples"": 0.05,
+  ""energy"": 0.18,
+  ""financials"": 0.12,
+  ""health_care"": 0.08,
+  ""industrials"": 0.41,
+  ""information_technology"": 0.74,
+  ""materials"": 0.2,
+  ""real_estate"": -0.35,
+  ""utilities"": -0.08
+}"
+MISSING,"{""Consumer Discretionary"":0.12,""Consumer Staples"":0.02,""Energy"":0.78,""Financials"":0.08,""Health Care"":0.05,""Industrials"":0.74,""Information Technology"":0.61,""Materials"":0.33,""Real Estate"":0.18,""Communication Services"":0.22,""Utilities"":0.57}"
+07_09_2024,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": -0.35,
+  ""Energy"": 0.1,
+  ""Financials"": 0.05,
+  ""Health Care"": -0.15,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.3,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.25,
+  ""Utilities"": 0.1
+}"
+10_16_2024,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": 0.15,
+  ""consumer_staples"": 0.1,
+  ""energy"": 0.2,
+  ""financials"": 0.45,
+  ""health_care"": -0.1,
+  ""industrials"": 0.0,
+  ""information_technology"": 0.1,
+  ""materials"": -0.25,
+  ""real_estate"": 0.0,
+  ""utilities"": 0.05
+}"
+01_15_2025,"{""Communication Services"":0.05,""Consumer Discretionary"":0.15,""Consumer Staples"":0.1,""Energy"":-0.05,""Financials"":0.65,""Health Care"":0.0,""Industrials"":0.25,""Information Technology"":0.1,""Materials"":0.0,""Real Estate"":0.1,""Utilities"":-0.05}"
+01_02_2025,"{""communication_services"":0.36,""consumer_discretionary"":0.42,""consumer_staples"":0.18,""energy"":0.21,""financials"":0.28,""health_care"":0.12,""industrials"":0.31,""information_technology"":0.63,""materials"":0.08,""real_estate"":0.17,""utilities"":0.25}"
+01_03_2025,"{
+  ""Energy"": -0.1,
+  ""Materials"": 0.35,
+  ""Industrials"": 0.05,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.05,
+  ""Health Care"": 0.0,
+  ""Financials"": 0.1,
+  ""Information Technology"": 0.55,
+  ""Communication Services"": 0.25,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.25
+}"
+01_06_2024,"{""Communication Services"":0.32,""Consumer Discretionary"":0.15,""Consumer Staples"":0.18,""Energy"":0.22,""Financials"":0.35,""Health Care"":0.28,""Industrials"":0.06,""Information Technology"":0.41,""Materials"":-0.08,""Real Estate"":0.02,""Utilities"":-0.03}"
+01_07_2025,"{
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.1,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.05,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.1,
+  ""Real Estate"": -0.05,
+  ""Utilities"": -0.05,
+  ""Communication Services"": 0.35
+}"
+01_08_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.35,
+  ""Financials"": 0.55,
+  ""Health Care"": 0.45,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.0,
+  ""Materials"": 0.3,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.05
+}"
+01_09_2025,"{
+  ""Communication Services"": 0.12,
+  ""Consumer Discretionary"": -0.18,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": 0.19,
+  ""Financials"": -0.22,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.04,
+  ""Information Technology"": -0.16,
+  ""Materials"": -0.06,
+  ""Real Estate"": -0.14,
+  ""Utilities"": 0.03
+}"
+01_13_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": -0.35,
+  ""Consumer Staples"": -0.12,
+  ""Energy"": 0.62,
+  ""Financials"": 0.28,
+  ""Health Care"": -0.25,
+  ""Industrials"": -0.18,
+  ""Information Technology"": -0.22,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.34,
+  ""Utilities"": -0.08
+}"
+01_14_2025,"{""Energy"":0.35,""Materials"":0.15,""Industrials"":0.45,""Consumer Discretionary"":0.1,""Consumer Staples"":-0.05,""Health Care"":0.2,""Financials"":0.25,""Information Technology"":0.3,""Communication Services"":0.05,""Utilities"":0.05,""Real Estate"":-0.2}"
+01_16_2025,"{""communication_services"":0.1,""consumer_discretionary"":0.35,""consumer_staples"":0.15,""energy"":0.08,""financials"":0.72,""health_care"":0.05,""industrials"":0.18,""information_technology"":0.55,""materials"":0.2,""real_estate"":0.12,""utilities"":0.02}"
+01_17_2025,"{""communication_services"":0.25,""consumer_discretionary"":0.35,""consumer_staples"":0.15,""energy"":0.3,""financials"":0.45,""health_care"":0.1,""industrials"":0.4,""information_technology"":0.2,""materials"":0.3,""real_estate"":0.05,""utilities"":0.1}"
+01_21_2025,"{
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.0,
+  ""Energy"": 0.45,
+  ""Financials"": 0.55,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.25,
+  ""Information Technology"": 0.4,
+  ""Materials"": 0.2,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.05
+}"
+01_22_2024,"{
+  ""S&P 500"": 0.6,
+  ""Communication Services"": 0.5,
+  ""Consumer Discretionary"": 0.4,
+  ""Consumer Staples"": 0.35,
+  ""Energy"": 0.15,
+  ""Financials"": 0.25,
+  ""Health Care"": 0.45,
+  ""Industrials"": 0.2,
+  ""Information Technology"": 0.75,
+  ""Materials"": 0.1,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.1
+}"
+01_22_2025,"{
+  ""Communication Services"": 0.8,
+  ""Consumer Discretionary"": 0.55,
+  ""Consumer Staples"": 0.35,
+  ""Energy"": 0.65,
+  ""Financials"": 0.7,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.6,
+  ""Information Technology"": 0.8,
+  ""Materials"": 0.25,
+  ""Real Estate"": 0.15,
+  ""Utilities"": 0.2
+}"
+01_22_2026,"{""Communication Services"":0.05,""Consumer Discretionary"":0.12,""Consumer Staples"":0.02,""Energy"":0.18,""Financials"":0.22,""Health Care"":0.14,""Industrials"":0.17,""Information Technology"":0.28,""Materials"":0.16,""Real Estate"":0.1,""Utilities"":0.06}"
+01_23_2025,"{""communication_services"":0.85,""consumer_discretionary"":0.7,""consumer_staples"":0.25,""energy"":0.8,""financials"":0.65,""health_care"":0.55,""industrials"":0.6,""information_technology"":0.75,""materials"":0.35,""real_estate"":0.45,""utilities"":0.4}"
+01_24_2024,"{""Communication Services"":0.44,""Consumer Discretionary"":0.32,""Consumer Staples"":0.18,""Energy"":0.41,""Financials"":0.33,""Health Care"":0.22,""Industrials"":0.37,""Information Technology"":0.45,""Materials"":0.24,""Real Estate"":0.17,""Utilities"":0.29}"
+01_25_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.08,""Consumer Staples"":0.02,""Energy"":0.15,""Financials"":0.18,""Health Care"":0.08,""Industrials"":-0.22,""Information Technology"":0.2,""Materials"":0.03,""Real Estate"":0.05,""Utilities"":0.04}"
+01_27_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.05,""Consumer Staples"":0.0,""Energy"":-0.75,""Financials"":-0.1,""Health Care"":0.05,""Industrials"":0.0,""Information Technology"":-0.9,""Materials"":-0.15,""Real Estate"":-0.05,""Utilities"":-0.7}"
+01_29_2024,"{
+  ""Communication Services"": 0.42,
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.12,
+  ""Financials"": 0.08,
+  ""Health Care"": 0.04,
+  ""Industrials"": -0.02,
+  ""Information Technology"": 0.58,
+  ""Materials"": -0.06,
+  ""Real Estate"": -0.12,
+  ""Utilities"": 0.03
+}"
+01_29_2025,"{""Communication Services"":0.55,""Consumer Discretionary"":0.2,""Consumer Staples"":0.1,""Energy"":-0.25,""Financials"":0.15,""Health Care"":0.3,""Industrials"":0.25,""Information Technology"":0.75,""Materials"":0.45,""Real Estate"":0.05,""Utilities"":-0.3}"
+01_30_2025,"{""Communication Services"":0.45,""Consumer Discretionary"":0.18,""Consumer Staples"":-0.22,""Energy"":-0.1,""Financials"":0.05,""Health Care"":-0.05,""Industrials"":-0.32,""Information Technology"":0.38,""Materials"":-0.28,""Real Estate"":-0.06,""Utilities"":-0.08}"
+01_31_2024,"{""Communication Services"":0.1,""Consumer Discretionary"":0.05,""Consumer Staples"":0.0,""Energy"":0.15,""Financials"":0.05,""Health Care"":0.05,""Industrials"":-0.15,""Information Technology"":-0.35,""Materials"":0.0,""Real Estate"":-0.05,""Utilities"":0.0}"
+01_31_2025,"{""Communication Services"":0.25,""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":-0.45,""Financials"":-0.05,""Health Care"":0.0,""Industrials"":-0.2,""Information Technology"":0.3,""Materials"":-0.15,""Real Estate"":-0.1,""Utilities"":0.05}"
+02_01_2024,"{
+  ""Information Technology"": 0.3,
+  ""Health Care"": 0.0,
+  ""Financials"": -0.35,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.1,
+  ""Industrials"": -0.15,
+  ""Materials"": -0.1,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.5,
+  ""Communication Services"": 0.15,
+  ""S&P 500"": 0.1
+}"
+02_04_2025,"{
+  ""CommunicationServices"": 0.15,
+  ""ConsumerDiscretionary"": -0.25,
+  ""ConsumerStaples"": 0.05,
+  ""Energy"": -0.3,
+  ""Financials"": 0.02,
+  ""HealthCare"": 0.1,
+  ""Industrials"": -0.35,
+  ""InformationTechnology"": 0.08,
+  ""Materials"": -0.4,
+  ""RealEstate"": -0.05,
+  ""Utilities"": 0.02
+}"
+02_05_2025,"{
+  ""sector_sentiment"": {
+    ""information_technology"": -0.55,
+    ""communication_services"": -0.25,
+    ""consumer_discretionary"": 0.15,
+    ""consumer_staples"": -0.1,
+    ""health_care"": 0.0,
+    ""financials"": 0.1,
+    ""industrials"": 0.05,
+    ""materials"": -0.05,
+    ""energy"": 0.45,
+    ""utilities"": 0.2,
+    ""real_estate"": -0.1,
+    ""basic_materials"": -0.05
+  }
+}"
+02_06_2024,"{
+  ""communication_services"": 0.2,
+  ""consumer_discretionary"": 0.15,
+  ""consumer_staples"": -0.1,
+  ""energy"": 0.55,
+  ""financials"": 0.1,
+  ""health_care"": 0.0,
+  ""industrials"": 0.35,
+  ""information_technology"": 0.25,
+  ""materials"": 0.15,
+  ""real_estate"": -0.15,
+  ""utilities"": -0.05
+}"
+02_06_2025,"{""Consumer Discretionary"":0.2,""Consumer Staples"":0.05,""Energy"":-0.05,""Financials"":0.15,""Health Care"":0.2,""Industrials"":0.05,""Information Technology"":0.1,""Materials"":-0.1,""Real Estate"":0.0,""Utilities"":0.0,""Communication Services"":0.1}"
+02_08_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":0.58,""Consumer Staples"":-0.06,""Energy"":0.22,""Financials"":0.11,""Health Care"":0.08,""Industrials"":0.14,""Information Technology"":0.46,""Materials"":0.09,""Real Estate"":0.33,""Utilities"":0.04}"
+02_09_2024,"{""consumer_discretionary"":0.55,""consumer_staples"":0.15,""energy"":0.05,""financials"":0.2,""health_care"":0.35,""industrials"":0.1,""information_technology"":0.25,""materials"":0.3,""real_estate"":-0.15,""communication_services"":0.2,""utilities"":0.0}"
+02_10_2025,"{
+  ""Communication Services"": 0.3,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": -0.05,
+  ""Financials"": 0.6,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.35,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.15,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.1
+}"
+02_11_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": -0.1,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.15,
+  ""Financials"": 0.05,
+  ""Health Care"": -0.1,
+  ""Industrials"": -0.4,
+  ""Information Technology"": -0.05,
+  ""Materials"": -0.45,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.0
+}"
+02_11_2026,"{""communication_services"":0.15,""consumer_discretionary"":0.05,""consumer_staples"":-0.1,""energy"":0.2,""financials"":-0.05,""health_care"":0.1,""industrials"":0.12,""information_technology"":0.25,""materials"":0.08,""real_estate"":0.02,""utilities"":0.05}"
+02_12_2024,"{
+  ""Financials"": 0.2,
+  ""Health Care"": 0.1,
+  ""Information Technology"": 0.45,
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": -0.2,
+  ""Energy"": 0.35,
+  ""Industrials"": 0.15,
+  ""Materials"": 0.3,
+  ""Utilities"": -0.1,
+  ""Real Estate"": -0.35,
+  ""Basic Materials"": 0.3
+}"
+02_12_2025,"{""Information Technology"":0.15,""Health Care"":0.05,""Financials"":0.35,""Consumer Discretionary"":-0.1,""Consumer Staples"":-0.05,""Energy"":-0.15,""Industrials"":-0.25,""Materials"":-0.2,""Utilities"":-0.05,""Real Estate"":-0.2,""Communication Services"":0.1}"
+02_13_2025,"{
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": -0.15,
+  ""Consumer Staples"": -0.2,
+  ""Energy"": -0.25,
+  ""Financials"": -0.1,
+  ""Health Care"": -0.05,
+  ""Industrials"": -0.2,
+  ""Information Technology"": 0.1,
+  ""Materials"": -0.15,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.05
+}"
+02_14_2024,"{""communication_services"":0.72,""consumer_discretionary"":0.58,""consumer_staples"":0.18,""energy"":0.12,""financials"":0.3,""health_care"":0.22,""industrials"":0.14,""information_technology"":0.61,""materials"":0.08,""real_estate"":-0.05,""utilities"":0.02}"
+02_14_2025,"{
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": -0.05,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.2,
+  ""Information Technology"": 0.15,
+  ""Materials"": 0.05,
+  ""Real Estate"": 0.0,
+  ""Utilities"": -0.02,
+  ""Communication Services"": 0.12
+}"
+02_15_2024,"{
+  ""information_technology"": 0.75,
+  ""communication_services"": 0.55,
+  ""consumer_discretionary"": 0.2,
+  ""consumer_staples"": -0.1,
+  ""health_care"": 0.15,
+  ""financials"": 0.25,
+  ""industrials"": -0.25,
+  ""materials"": -0.3,
+  ""energy"": -0.2,
+  ""utilities"": 0.05,
+  ""real_estate"": 0.1
+}"
+02_16_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":-0.1,""Energy"":0.35,""Financials"":0.05,""Health Care"":0.1,""Industrials"":-0.05,""Information Technology"":0.2,""Materials"":0.1,""Real Estate"":-0.15,""Utilities"":0.0}"
+02_18_2025,"{
+  ""information_technology"": 0.35,
+  ""communication_services"": 0.25,
+  ""consumer_discretionary"": 0.3,
+  ""consumer_staples"": 0.15,
+  ""energy"": 0.05,
+  ""financials"": 0.2,
+  ""health_care"": 0.1,
+  ""industrials"": 0.2,
+  ""materials"": 0.08,
+  ""real_estate"": 0.12,
+  ""utilities"": 0.05
+}"
+02_19_2025,"{
+  ""sector_sentiment"": {
+    ""communication_services"": 0.05,
+    ""consumer_discretionary"": -0.05,
+    ""consumer_staples"": 0.35,
+    ""energy"": 0.15,
+    ""financials"": 0.55,
+    ""health_care"": -0.15,
+    ""industrials"": 0.4,
+    ""information_technology"": -0.1,
+    ""materials"": 0.2,
+    ""real_estate"": -0.35,
+    ""utilities"": -0.1
+  }
+}"
+02_20_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.18,""Consumer Staples"":0.12,""Energy"":0.08,""Financials"":-0.12,""Health Care"":0.0,""Industrials"":-0.1,""Information Technology"":0.28,""Materials"":-0.05,""Real Estate"":-0.22,""Utilities"":-0.02}"
+02_20_2025,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": -0.35,
+  ""consumer_staples"": -0.15,
+  ""energy"": -0.2,
+  ""financials"": 0.1,
+  ""health_care"": -0.25,
+  ""industrials"": -0.3,
+  ""information_technology"": 0.15,
+  ""materials"": -0.35,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.05
+}"
+02_21_2024,"{""Communication Services"":0.16,""Consumer Discretionary"":0.21,""Consumer Staples"":0.05,""Energy"":0.24,""Financials"":-0.08,""Health Care"":0.12,""Industrials"":0.14,""Information Technology"":0.62,""Materials"":0.03,""Real Estate"":0.17,""Utilities"":-0.02}"
+02_21_2025,"{""Consumer Discretionary"":0.05,""Consumer Staples"":0.1,""Energy"":0.0,""Financials"":0.15,""Health Care"":-0.3,""Industrials"":-0.05,""Information Technology"":0.08,""Materials"":0.2,""Real Estate"":-0.15,""Utilities"":0.12}"
+02_22_2024,"{""Information Technology"":0.95,""Health Care"":0.15,""Financials"":0.05,""Consumer Discretionary"":0.25,""Consumer Staples"":0.05,""Energy"":0.1,""Industrials"":0.35,""Materials"":0.15,""Utilities"":0.0,""Real Estate"":-0.15,""Communication Services"":0.2}"
+02_23_2024,"{""Communication Services"":0.38,""Consumer Discretionary"":0.52,""Consumer Staples"":0.18,""Energy"":0.05,""Financials"":0.22,""Health Care"":0.31,""Industrials"":0.44,""Information Technology"":0.86,""Materials"":0.12,""Real Estate"":0.08,""Utilities"":0.04}"
+02_25_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": -0.2,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.15,
+  ""Financials"": 0.05,
+  ""Health Care"": -0.15,
+  ""Industrials"": -0.25,
+  ""Information Technology"": -0.45,
+  ""Materials"": -0.2,
+  ""Real Estate"": -0.3,
+  ""Utilities"": 0.05
+}"
+02_26_2025,"{""CommunicationServices"":0.72,""ConsumerDiscretionary"":-0.18,""ConsumerStaples"":0.08,""Energy"":-0.12,""Financials"":-0.05,""HealthCare"":0.05,""Industrials"":0.02,""InformationTechnology"":0.34,""Materials"":-0.08,""RealEstate"":-0.2,""Utilities"":0.04}"
+02_27_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.1,
+  ""Financials"": 0.05,
+  ""Health Care"": -0.05,
+  ""Industrials"": -0.15,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.1,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.05
+}"
+02_28_2024,"{
+  ""Information Technology"": 0.72,
+  ""Health Care"": 0.18,
+  ""Financials"": 0.22,
+  ""Consumer Discretionary"": -0.08,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": -0.18,
+  ""Industrials"": 0.16,
+  ""Materials"": -0.05,
+  ""Utilities"": -0.12,
+  ""Real Estate"": -0.14,
+  ""Communication Services"": 0.38
+}"
+02_28_2025,"{""Information Technology"":0.15,""Health Care"":0.25,""Financials"":0.05,""Consumer Discretionary"":-0.35,""Consumer Staples"":0.1,""Energy"":0.2,""Industrials"":-0.05,""Materials"":-0.3,""Utilities"":0.05,""Real Estate"":-0.15,""Communication Services"":-0.1}"
+02_29_2024,"{
+  ""CommunicationServices"": 0.1,
+  ""ConsumerDiscretionary"": 0.15,
+  ""ConsumerStaples"": 0.05,
+  ""Energy"": 0.0,
+  ""Financials"": 0.05,
+  ""HealthCare"": 0.1,
+  ""Industrials"": 0.0,
+  ""InformationTechnology"": 0.05,
+  ""Materials"": -0.05,
+  ""RealEstate"": -0.1,
+  ""Utilities"": 0.0
+}"
+03_01_2024,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.25,
+  ""Financials"": -0.35,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.05,
+  ""Information Technology"": 0.2,
+  ""Materials"": 0.15,
+  ""Real Estate"": -0.4,
+  ""Utilities"": 0.0
+}"
+03_03_2025,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.08,""Consumer Staples"":0.05,""Energy"":-0.18,""Financials"":0.10,""Health Care"":0.04,""Industrials"":0.18,""Information Technology"":-0.05,""Materials"":0.09,""Real Estate"":-0.12,""Utilities"":-0.04}"
+03_04_2024,"{""communication_services"":0.12,""consumer_discretionary"":0.08,""consumer_staples"":0.02,""energy"":-0.03,""financials"":0.14,""health_care"":0.11,""industrials"":0.18,""information_technology"":0.22,""materials"":0.09,""real_estate"":0.05,""utilities"":0.01}"
+03_05_2024,"{""Consumer Discretionary"":0.12,""Consumer Staples"":0.18,""Energy"":0.08,""Financials"":0.06,""Health Care"":0.14,""Industrials"":0.05,""Information Technology"":0.02,""Materials"":0.0,""Real Estate"":-0.12,""Communication Services"":0.01,""Utilities"":-0.05}"
+03_06_2025,"{
+  ""sector_sentiment"": {
+    ""Communication Services"": -0.15,
+    ""Consumer Discretionary"": -0.45,
+    ""Consumer Staples"": 0.1,
+    ""Energy"": 0.05,
+    ""Financials"": -0.1,
+    ""Health Care"": 0.0,
+    ""Industrials"": -0.25,
+    ""Information Technology"": -0.35,
+    ""Materials"": -0.2,
+    ""Real Estate"": -0.05,
+    ""Utilities"": 0.05
+  }
+}"
+03_07_2024,"{""communication_services"":0.2,""consumer_discretionary"":0.55,""consumer_staples"":0.1,""energy"":0.05,""financials"":0.45,""health_care"":0.15,""industrials"":0.25,""information_technology"":0.35,""materials"":0.05,""real_estate"":-0.2,""utilities"":0.0}"
+03_10_2025,"{""communication_services"":0.1,""consumer_discretionary"":-0.55,""consumer_staples"":-0.15,""energy"":-0.25,""financials"":-0.7,""health_care"":-0.1,""industrials"":-0.45,""information_technology"":-0.5,""materials"":-0.35,""real_estate"":-0.2,""utilities"":0.05}"
+03_11_2024,"{""Financials"":0.1,""Health Care"":0.0,""Information Technology"":0.05,""Communication Services"":-0.2,""Consumer Discretionary"":-0.05,""Consumer Staples"":0.02,""Energy"":0.03,""Industrials"":-0.1,""Materials"":-0.05,""Real Estate"":-0.15,""Utilities"":0.08}"
+03_11_2025,"{
+  ""Consumer Discretionary"": -0.72,
+  ""Consumer Staples"": 0.18,
+  ""Energy"": -0.34,
+  ""Financials"": -0.41,
+  ""Health Care"": 0.22,
+  ""Industrials"": -0.56,
+  ""Information Technology"": -0.18,
+  ""Materials"": -0.63,
+  ""Real Estate"": -0.12,
+  ""Utilities"": 0.11,
+  ""Communication Services"": -0.22,
+  ""S&P 500"": -0.48
+}"
+03_12_2025,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.35,""Consumer Staples"":-0.1,""Energy"":0.1,""Financials"":-0.15,""Health Care"":0.0,""Industrials"":-0.25,""Information Technology"":-0.4,""Materials"":-0.45,""Real Estate"":-0.05,""Utilities"":0.02}"
+03_13_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":0.45,""Consumer Staples"":0.1,""Energy"":0.2,""Financials"":0.25,""Health Care"":0.15,""Industrials"":0.05,""Information Technology"":0.3,""Materials"":0.0,""Real Estate"":-0.15,""Utilities"":-0.05}"
+03_13_2025,"{
+  ""Information Technology"": -0.25,
+  ""Communication Services"": -0.15,
+  ""Consumer Discretionary"": -0.45,
+  ""Consumer Staples"": 0.05,
+  ""Health Care"": -0.2,
+  ""Financials"": -0.35,
+  ""Industrials"": -0.55,
+  ""Materials"": -0.6,
+  ""Energy"": -0.25,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.2
+}"
+03_14_2024,"{""Communication Services"":0.25,""Consumer Discretionary"":-0.2,""Consumer Staples"":0.1,""Energy"":0.35,""Financials"":0.15,""Health Care"":0.2,""Industrials"":0.3,""Information Technology"":-0.1,""Materials"":0.28,""Real Estate"":-0.05,""Utilities"":0.0}"
+03_14_2025,"{
+  ""Communication Services"": -0.2,
+  ""Consumer Discretionary"": -0.65,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": -0.55,
+  ""Financials"": -0.15,
+  ""Health Care"": -0.1,
+  ""Industrials"": -0.3,
+  ""Information Technology"": -0.6,
+  ""Materials"": -0.45,
+  ""Real Estate"": -0.2,
+  ""Utilities"": 0.1
+}"
+03_15_2024,"{
+  ""communication_services"": 0.45,
+  ""consumer_discretionary"": 0.3,
+  ""consumer_staples"": 0.05,
+  ""energy"": 0.4,
+  ""financials"": 0.15,
+  ""health_care"": 0.1,
+  ""industrials"": 0.2,
+  ""information_technology"": 0.5,
+  ""materials"": 0.35,
+  ""real_estate"": -0.05,
+  ""utilities"": -0.1
+}"
+03_17_2025,"{""S&P 500"":{""sentiment"":-0.62},""Information Technology"":{""sentiment"":-0.28},""Health Care"":{""sentiment"":-0.12},""Financials"":{""sentiment"":-0.18},""Consumer Discretionary"":{""sentiment"":-0.72},""Consumer Staples"":{""sentiment"":-0.34},""Energy"":{""sentiment"":0.08},""Utilities"":{""sentiment"":0.05},""Industrials"":{""sentiment"":-0.22},""Materials"":{""sentiment"":-0.25},""Real Estate"":{""sentiment"":-0.31},""Communication Services"":{""sentiment"":-0.15}}"
+03_19_2024,"{""CommunicationServices"":0.25,""ConsumerDiscretionary"":0.3,""ConsumerStaples"":0.12,""Energy"":0.35,""Financials"":0.22,""HealthCare"":0.18,""Industrials"":0.28,""InformationTechnology"":0.4,""Materials"":0.15,""RealEstate"":0.05,""Utilities"":0.02}"
+03_19_2025,"{
+  ""communication_services"": 0.15,
+  ""consumer_discretionary"": -0.45,
+  ""consumer_staples"": -0.1,
+  ""energy"": 0.1,
+  ""financials"": -0.2,
+  ""health_care"": -0.05,
+  ""industrials"": -0.15,
+  ""information_technology"": -0.5,
+  ""materials"": 0.0,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.05
+}"
+03_20_2025,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": -0.35,
+  ""consumer_staples"": 0.1,
+  ""energy"": -0.15,
+  ""financials"": -0.1,
+  ""health_care"": 0.0,
+  ""industrials"": -0.45,
+  ""information_technology"": 0.15,
+  ""materials"": -0.3,
+  ""real_estate"": 0.05,
+  ""utilities"": 0.1
+}"
+03_21_2024,"{
+  ""Communication Services"": 0.6,
+  ""Consumer Discretionary"": 0.8,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.1,
+  ""Financials"": 0.5,
+  ""Health Care"": 0.2,
+  ""Industrials"": 0.4,
+  ""Information Technology"": 0.7,
+  ""Materials"": 0.6,
+  ""Real Estate"": 0.3,
+  ""Utilities"": 0.2
+}"
+03_21_2025,"{
+  ""S&P_500"": 0.4,
+  ""Communication_Services"": 0.15,
+  ""Consumer_Discretionary"": -0.75,
+  ""Consumer_Staples"": -0.35,
+  ""Energy"": -0.1,
+  ""Financials"": 0.25,
+  ""Health_Care"": 0.1,
+  ""Industrials"": -0.6,
+  ""Information_Technology"": -0.55,
+  ""Materials"": -0.2,
+  ""Real_Estate"": -0.1,
+  ""Utilities"": -0.15
+}"
+03_22_2024,"{
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.2,
+  ""Financials"": 0.45,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.15,
+  ""Information Technology"": -0.2,
+  ""Materials"": 0.18,
+  ""Real Estate"": 0.1,
+  ""Utilities"": 0.02,
+  ""Communication Services"": -0.15
+}"
+03_24_2025,"{
+  ""Communication Services"": -0.15,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.1,
+  ""Financials"": 0.05,
+  ""Health Care"": -0.2,
+  ""Industrials"": -0.05,
+  ""Information Technology"": 0.15,
+  ""Materials"": 0.0,
+  ""Real Estate"": -0.05,
+  ""Utilities"": -0.05
+}"
+03_25_2024,"{""Financials"":0.15,""Health Care"":0.05,""Information Technology"":0.25,""Communication Services"":0.2,""Consumer Discretionary"":0.1,""Consumer Staples"":0.0,""Energy"":0.05,""Industrials"":0.1,""Materials"":0.0,""Real Estate"":-0.05,""Utilities"":-0.1}"
+03_25_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": -0.35,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.05,
+  ""Financials"": 0.1,
+  ""Health Care"": -0.05,
+  ""Industrials"": -0.2,
+  ""Information Technology"": -0.1,
+  ""Materials"": -0.15,
+  ""Real Estate"": -0.4,
+  ""Utilities"": 0.0
+}"
+03_26_2024,"{""Consumer Discretionary"":0.12,""Consumer Staples"":0.18,""Energy"":0.22,""Financials"":0.15,""Health Care"":0.08,""Industrials"":0.04,""Information Technology"":0.10,""Materials"":0.14,""Real Estate"":-0.22,""Utilities"":0.02,""Communication Services"":0.06}"
+03_26_2025,"{""Communication Services"":-0.05,""Consumer Discretionary"":-0.3,""Consumer Staples"":-0.15,""Energy"":0.2,""Financials"":-0.1,""Health Care"":0.0,""Industrials"":-0.2,""Information Technology"":-0.15,""Materials"":-0.35,""Real Estate"":-0.3,""Utilities"":-0.05}"
+03_27_2024,"{
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.35,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.25,
+  ""Industrials"": 0.15,
+  ""Information Technology"": 0.1,
+  ""Materials"": 0.3,
+  ""Real Estate"": 0.0,
+  ""Communication Services"": 0.05,
+  ""Utilities"": 0.1
+}"
+03_27_2025,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.72,""Consumer Staples"":-0.15,""Energy"":-0.25,""Financials"":-0.18,""Health Care"":-0.12,""Industrials"":-0.48,""Information Technology"":-0.28,""Materials"":-0.22,""Real Estate"":-0.08,""Utilities"":-0.05}"
+03_28_2024,"{
+  ""Information Technology"": 0.45,
+  ""Health Care"": 0.4,
+  ""Financials"": 0.18,
+  ""Consumer Discretionary"": 0.35,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.12,
+  ""Industrials"": 0.22,
+  ""Materials"": -0.05,
+  ""Utilities"": -0.08,
+  ""Real Estate"": -0.12,
+  ""Communication Services"": 0.3,
+  ""S&P 500"": 0.28
+}"
+03_28_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.7,""Consumer Staples"":-0.2,""Energy"":-0.1,""Financials"":0.2,""Health Care"":0.4,""Industrials"":-0.1,""Information Technology"":-0.8,""Materials"":0.1,""Real Estate"":-0.2,""Utilities"":-0.4}"
+03_31_2025,"{
+  ""Information Technology"": -0.2,
+  ""Health Care"": -0.05,
+  ""Financials"": 0.05,
+  ""Consumer Discretionary"": -0.75,
+  ""Consumer Staples"": -0.25,
+  ""Energy"": -0.1,
+  ""Industrials"": -0.6,
+  ""Materials"": -0.65,
+  ""Utilities"": -0.15,
+  ""Real Estate"": -0.35,
+  ""Communication Services"": -0.45
+}"
+04_01_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":0.45,""Consumer Staples"":0.1,""Energy"":0.8,""Financials"":0.55,""Health Care"":0.25,""Industrials"":0.4,""Information Technology"":0.3,""Materials"":0.7,""Real Estate"":0.15,""Utilities"":0.2}"
+04_01_2025,"{""Communication Services"":-0.6,""Consumer Discretionary"":-0.8,""Consumer Staples"":-0.3,""Energy"":-0.4,""Financials"":-0.2,""Health Care"":-0.1,""Industrials"":-0.7,""Information Technology"":-0.5,""Materials"":-0.6,""Real Estate"":-0.4,""Utilities"":-0.1}"
+04_02_2024,"{""Information Technology"":0.1,""Health Care"":0.3,""Financials"":0.15,""Consumer Discretionary"":-0.15,""Communication Services"":0.0,""Industrials"":0.05,""Consumer Staples"":-0.1,""Energy"":0.75,""Utilities"":-0.05,""Real Estate"":-0.2,""Materials"":0.55}"
+04_02_2025,"{
+  ""information_technology"": -0.38,
+  ""health_care"": -0.18,
+  ""financials"": -0.22,
+  ""consumer_discretionary"": -0.41,
+  ""consumer_staples"": -0.08,
+  ""energy"": 0.05,
+  ""industrials"": -0.49,
+  ""materials"": -0.47,
+  ""utilities"": -0.12,
+  ""real_estate"": -0.16,
+  ""communication_services"": -0.36
+}"
+04_03_2024,"{
+  ""consumer_discretionary"": -0.1,
+  ""consumer_staples"": 0.0,
+  ""energy"": 0.75,
+  ""financials"": 0.1,
+  ""health_care"": 0.15,
+  ""industrials"": 0.25,
+  ""information_technology"": -0.05,
+  ""materials"": 0.6,
+  ""real_estate"": -0.45,
+  ""communication_services"": -0.1,
+  ""utilities"": -0.2
+}"
+04_04_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":-0.05,""Energy"":0.35,""Financials"":0.1,""Health Care"":0.0,""Industrials"":0.05,""Information Technology"":0.2,""Materials"":0.15,""Real Estate"":-0.1,""Utilities"":0.0}"
+04_04_2025,"{""Communication Services"":-0.75,""Consumer Discretionary"":-0.95,""Consumer Staples"":-0.35,""Energy"":-0.8,""Financials"":-0.7,""Health Care"":-0.55,""Industrials"":-0.85,""Information Technology"":-0.95,""Materials"":-0.8,""Real Estate"":-0.7,""Utilities"":-0.25}"
+04_05_2024,"{""Communication Services"":0.2,""Consumer Discretionary"":0.15,""Consumer Staples"":-0.05,""Energy"":0.75,""Financials"":0.2,""Health Care"":0.1,""Industrials"":0.25,""Information Technology"":0.05,""Materials"":0.35,""Real Estate"":-0.15,""Utilities"":0.0}"
+04_06_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.85,""Consumer Staples"":-0.4,""Energy"":-0.8,""Financials"":-0.7,""Health Care"":-0.15,""Industrials"":-0.75,""Information Technology"":-0.9,""Materials"":-0.6,""Real Estate"":-0.45,""Utilities"":-0.35}"
+04_07_2025,"{
+  ""Information Technology"": -0.75,
+  ""Health Care"": -0.15,
+  ""Financials"": -0.85,
+  ""Consumer Discretionary"": -0.95,
+  ""Consumer Staples"": -0.35,
+  ""Energy"": -0.7,
+  ""Industrials"": -0.8,
+  ""Materials"": -0.65,
+  ""Utilities"": -0.2,
+  ""Real Estate"": -0.3,
+  ""Communication Services"": -0.7
+}"
+04_08_2024,"{""Communication Services"":0.3,""Consumer Discretionary"":0.35,""Consumer Staples"":0.05,""Energy"":0.45,""Financials"":0.15,""Health Care"":0.0,""Industrials"":0.1,""Information Technology"":0.25,""Materials"":0.2,""Real Estate"":-0.15,""Utilities"":-0.05}"
+04_08_2025,"{
+  ""Communication Services"": 0.12,
+  ""Consumer Discretionary"": -0.78,
+  ""Consumer Staples"": -0.18,
+  ""Energy"": -0.31,
+  ""Financials"": -0.64,
+  ""Health Care"": 0.28,
+  ""Industrials"": -0.67,
+  ""Information Technology"": -0.73,
+  ""Materials"": -0.56,
+  ""Real Estate"": -0.22,
+  ""Utilities"": 0.05
+}"
+04_09_2024,"[
+  {
+    ""sector"": ""Information Technology"",
+    ""sentiment"": 0.55
+  },
+  {
+    ""sector"": ""Communication Services"",
+    ""sentiment"": 0.35
+  },
+  {
+    ""sector"": ""Consumer Discretionary"",
+    ""sentiment"": 0.15
+  },
+  {
+    ""sector"": ""Consumer Staples"",
+    ""sentiment"": 0.1
+  },
+  {
+    ""sector"": ""Energy"",
+    ""sentiment"": 0.45
+  },
+  {
+    ""sector"": ""Financials"",
+    ""sentiment"": 0.2
+  },
+  {
+    ""sector"": ""Health Care"",
+    ""sentiment"": 0.05
+  },
+  {
+    ""sector"": ""Industrials"",
+    ""sentiment"": 0.1
+  },
+  {
+    ""sector"": ""Materials"",
+    ""sentiment"": 0.5
+  },
+  {
+    ""sector"": ""Real Estate"",
+    ""sentiment"": 0.25
+  },
+  {
+    ""sector"": ""Utilities"",
+    ""sentiment"": 0.05
+  }
+]"
+04_10_2024,"{
+  ""Information Technology"": 0.35,
+  ""Health Care"": 0.05,
+  ""Financials"": 0.1,
+  ""Consumer Discretionary"": 0.22,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.6,
+  ""Utilities"": -0.1,
+  ""Industrials"": 0.15,
+  ""Materials"": 0.48,
+  ""Real Estate"": -0.25,
+  ""Communication Services"": 0.18
+}"
+04_11_2024,"{
+  ""Consumer Discretionary"": -0.2,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.15,
+  ""Financials"": -0.45,
+  ""Health Care"": -0.15,
+  ""Industrials"": -0.25,
+  ""Information Technology"": -0.05,
+  ""Materials"": -0.1,
+  ""Real Estate"": -0.5,
+  ""Utilities"": -0.1,
+  ""Communication Services"": -0.05
+}"
+04_11_2025,"{
+  ""S&P_500"": 0.15,
+  ""Information_Technology"": -0.3,
+  ""Communication_Services"": -0.05,
+  ""Consumer_Discretionary"": -0.45,
+  ""Consumer_Staples"": 0.25,
+  ""Health_Care"": 0.05,
+  ""Financials"": 0.55,
+  ""Industrials"": -0.15,
+  ""Materials"": -0.2,
+  ""Energy"": 0.3,
+  ""Utilities"": 0.1,
+  ""Real_Estate"": -0.1
+}"
+04_12_2024,"{""Communication Services"":0.18,""Consumer Discretionary"":0.12,""Consumer Staples"":0.05,""Energy"":0.52,""Financials"":0.19,""Health Care"":0.08,""Industrials"":0.16,""Information Technology"":0.31,""Materials"":0.44,""Real Estate"":-0.04,""Utilities"":0.02}"
+04_14_2025,"{
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": -0.25,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": -0.05,
+  ""Financials"": 0.35,
+  ""Health Care"": -0.15,
+  ""Industrials"": -0.2,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.1,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.05
+}"
+04_15_2025,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": -0.35,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.1,
+  ""Financials"": 0.3,
+  ""Health Care"": -0.25,
+  ""Industrials"": -0.45,
+  ""Information Technology"": -0.2,
+  ""Materials"": -0.3,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.05
+}"
+04_16_2024,"{
+  ""Consumer Discretionary"": 0.3,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.05,
+  ""Financials"": 0.15,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.25,
+  ""Information Technology"": 0.2,
+  ""Materials"": 0.1,
+  ""Real Estate"": -0.25,
+  ""Utilities"": -0.15,
+  ""Communication Services"": 0.1
+}"
+04_16_2025,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": -0.12,
+  ""consumer_staples"": 0.03,
+  ""energy"": 0.08,
+  ""financials"": 0.1,
+  ""health_care"": -0.18,
+  ""industrials"": -0.22,
+  ""information_technology"": -0.45,
+  ""materials"": -0.2,
+  ""real_estate"": -0.14,
+  ""utilities"": 0.0
+}"
+04_17_2024,"{
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.08,
+  ""Financials"": 0.14,
+  ""Health Care"": 0.02,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.26,
+  ""Materials"": 0.09,
+  ""Real Estate"": -0.18,
+  ""Utilities"": -0.04,
+  ""Communication Services"": 0.11
+}"
+04_17_2025,"{
+  ""CommunicationServices"": 0.25,
+  ""ConsumerDiscretionary"": -0.1,
+  ""ConsumerStaples"": 0.15,
+  ""Energy"": -0.2,
+  ""Financials"": 0.1,
+  ""HealthCare"": -0.35,
+  ""Industrials"": -0.15,
+  ""InformationTechnology"": 0.05,
+  ""Materials"": -0.25,
+  ""RealEstate"": 0.2,
+  ""Utilities"": 0.1
+}"
+04_18_2024,"{
+  ""Information Technology"": 0.2,
+  ""Health Care"": 0.0,
+  ""Financials"": -0.2,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": 0.0,
+  ""Energy"": 0.15,
+  ""Industrials"": -0.1,
+  ""Materials"": -0.05,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.1,
+  ""Communication Services"": -0.05,
+  ""S&P 500"": -0.05
+}"
+04_19_2024,"{""Communication Services"":0.4,""Consumer Discretionary"":0.1,""Consumer Staples"":-0.1,""Energy"":0.2,""Financials"":0.05,""Health Care"":0.0,""Industrials"":0.05,""Information Technology"":0.15,""Materials"":-0.05,""Real Estate"":-0.2,""Utilities"":0.1}"
+04_21_2025,"{
+  ""Communication Services"": 0.08,
+  ""Consumer Discretionary"": -0.32,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": -0.14,
+  ""Financials"": -0.28,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.22,
+  ""Information Technology"": -0.38,
+  ""Materials"": -0.18,
+  ""Real Estate"": -0.24,
+  ""Utilities"": 0.02
+}"
+04_22_2024,"{""energy"":0.15,""materials"":0.05,""industrials"":0.12,""consumer_discretionary"":-0.18,""consumer_staples"":0.02,""health_care"":0.03,""financials"":0.08,""information_technology"":-0.05,""communication_services"":-0.02,""utilities"":0.04,""real_estate"":-0.22}"
+04_22_2025,"{
+  ""communication_services"": 0.2,
+  ""consumer_discretionary"": -0.15,
+  ""consumer_staples"": -0.25,
+  ""energy"": 0.05,
+  ""financials"": -0.55,
+  ""health_care"": 0.1,
+  ""industrials"": -0.35,
+  ""information_technology"": -0.2,
+  ""materials"": 0.25,
+  ""real_estate"": -0.3,
+  ""utilities"": 0.15
+}"
+04_23_2024,"{
+  ""Communication Services"": 0.06,
+  ""Consumer Discretionary"": -0.39,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": 0.18,
+  ""Financials"": -0.08,
+  ""Health Care"": 0.03,
+  ""Industrials"": -0.14,
+  ""Information Technology"": -0.33,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.02,
+  ""Utilities"": 0.04
+}"
+04_23_2025,"{""Communication Services"":0.55,""Consumer Discretionary"":0.42,""Consumer Staples"":0.08,""Energy"":-0.12,""Financials"":0.18,""Health Care"":0.05,""Industrials"":0.14,""Information Technology"":0.58,""Materials"":-0.22,""Real Estate"":-0.08,""Utilities"":0.04}"
+04_24_2024,"{
+  ""Communication Services"": 0.45,
+  ""Consumer Discretionary"": 0.72,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": -0.22,
+  ""Financials"": 0.18,
+  ""Health Care"": -0.28,
+  ""Industrials"": 0.12,
+  ""Information Technology"": 0.78,
+  ""Materials"": -0.18,
+  ""Real Estate"": 0.02,
+  ""Utilities"": 0.01
+}"
+04_24_2025,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.35,""Consumer Staples"":-0.45,""Energy"":-0.1,""Financials"":-0.2,""Health Care"":0.1,""Industrials"":-0.25,""Information Technology"":-0.1,""Materials"":-0.15,""Real Estate"":-0.05,""Utilities"":0.05}"
+04_25_2024,"{
+  ""communication_services"": 0.35,
+  ""consumer_discretionary"": -0.15,
+  ""consumer_staples"": 0.05,
+  ""energy"": 0.1,
+  ""financials"": 0.2,
+  ""health_care"": 0.05,
+  ""industrials"": -0.1,
+  ""information_technology"": 0.15,
+  ""materials"": 0.0,
+  ""real_estate"": -0.05,
+  ""utilities"": 0.0
+}"
+04_25_2025,"{""Industrials"":0.18,""Information Technology"":0.52,""Financials"":0.06,""Health Care"":-0.08,""Consumer Discretionary"":0.11,""Consumer Staples"":-0.22,""Energy"":-0.05,""Utilities"":0.0,""Real Estate"":-0.03,""Materials"":-0.12,""Communication Services"":0.38}"
+04_26_2024,"{""Communication Services"":0.82,""Consumer Discretionary"":0.31,""Consumer Staples"":0.14,""Energy"":0.28,""Financials"":0.18,""Health Care"":0.06,""Industrials"":0.11,""Information Technology"":0.92,""Materials"":0.09,""Real Estate"":-0.12,""Utilities"":-0.05}"
+04_28_2025,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": -0.05,
+  ""Financials"": -0.15,
+  ""Health Care"": -0.1,
+  ""Industrials"": -0.2,
+  ""Information Technology"": 0.05,
+  ""Materials"": -0.15,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.0
+}"
+04_29_2025,"{""Communication Services"":-0.2,""Consumer Discretionary"":-0.7,""Consumer Staples"":-0.1,""Energy"":-0.5,""Financials"":-0.4,""Health Care"":-0.2,""Industrials"":-0.8,""Information Technology"":-0.3,""Materials"":-0.6,""Real Estate"":-0.4,""Utilities"":-0.3}"
+04_30_2025,"{
+  ""communication_services"": -0.45,
+  ""consumer_discretionary"": -0.7,
+  ""consumer_staples"": -0.35,
+  ""energy"": -0.2,
+  ""financials"": -0.55,
+  ""health_care"": -0.25,
+  ""industrials"": -0.65,
+  ""information_technology"": -0.5,
+  ""materials"": -0.6,
+  ""real_estate"": -0.4,
+  ""utilities"": -0.15
+}"
+05_01_2025,"{
+  ""Communication Services"": 0.82,
+  ""Consumer Discretionary"": -0.18,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": -0.12,
+  ""Financials"": -0.15,
+  ""Health Care"": -0.05,
+  ""Industrials"": -0.34,
+  ""Information Technology"": 0.88,
+  ""Materials"": -0.22,
+  ""Real Estate"": 0.12,
+  ""Utilities"": 0.05
+}"
+05_02_2024,"{""Communication Services"":0.62,""Consumer Discretionary"":0.58,""Consumer Staples"":0.42,""Energy"":0.19,""Financials"":0.36,""Health Care"":0.71,""Industrials"":0.24,""Information Technology"":0.68,""Materials"":0.14,""Real Estate"":-0.12,""Utilities"":0.05}"
+05_02_2025,"{""Communication Services"":0.12,""Consumer Discretionary"":0.05,""Consumer Staples"":0.08,""Energy"":-0.18,""Financials"":0.07,""Health Care"":0.02,""Industrials"":-0.09,""Information Technology"":-0.04,""Materials"":-0.14,""Real Estate"":-0.03,""Utilities"":-0.01}"
+05_03_2024,"{""Communication Services"":0.25,""Consumer Discretionary"":0.45,""Consumer Staples"":0.05,""Energy"":0.15,""Financials"":0.1,""Health Care"":0.35,""Industrials"":0.2,""Information Technology"":0.1,""Materials"":0.25,""Real Estate"":0.0,""Utilities"":-0.05}"
+05_05_2025,"{
+  ""Consumer Discretionary"": 0.12,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": -0.48,
+  ""Financials"": 0.18,
+  ""Health Care"": 0.22,
+  ""Industrials"": -0.22,
+  ""Information Technology"": -0.18,
+  ""Materials"": -0.14,
+  ""Real Estate"": -0.05,
+  ""Communication Services"": -0.24,
+  ""Utilities"": 0.05
+}"
+05_06_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":0.18,""Consumer Staples"":0.05,""Energy"":0.34,""Financials"":0.16,""Health Care"":0.09,""Industrials"":0.08,""Information Technology"":0.22,""Materials"":0.14,""Real Estate"":0.03,""Utilities"":0.04}"
+05_06_2025,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": -0.55,
+  ""consumer_staples"": -0.45,
+  ""energy"": -0.1,
+  ""financials"": -0.15,
+  ""health_care"": -0.35,
+  ""industrials"": -0.4,
+  ""information_technology"": -0.25,
+  ""materials"": -0.2,
+  ""real_estate"": -0.3,
+  ""utilities"": -0.05
+}"
+05_07_2024,"{""Communication Services"":0.25,""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":0.2,""Health Care"":0.0,""Industrials"":-0.35,""Information Technology"":0.3,""Materials"":0.0,""Real Estate"":0.05,""Utilities"":0.1}"
+05_07_2025,"{""communication_services"":0.28,""consumer_discretionary"":0.34,""consumer_staples"":0.12,""energy"":-0.08,""financials"":0.05,""health_care"":0.18,""industrials"":0.02,""information_technology"":0.41,""materials"":0.0,""real_estate"":-0.02,""utilities"":0.1}"
+05_08_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":-0.25,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":-0.15,""Health Care"":0.0,""Industrials"":-0.2,""Information Technology"":0.2,""Materials"":0.1,""Real Estate"":0.15,""Utilities"":0.05}"
+05_08_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.35,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.1,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.25,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.2,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.0
+}"
+05_09_2024,"{
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.15,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.05,
+  ""Information Technology"": -0.2,
+  ""Materials"": 0.2,
+  ""Real Estate"": 0.05,
+  ""Utilities"": 0.05,
+  ""Communication Services"": -0.1
+}"
+05_09_2025,"{
+  ""S&P 500"": 0.35,
+  ""Information Technology"": 0.45,
+  ""Health Care"": 0.12,
+  ""Financials"": 0.08,
+  ""Consumer Discretionary"": 0.10,
+  ""Consumer Staples"": -0.02,
+  ""Energy"": 0.00,
+  ""Industrials"": 0.18,
+  ""Materials"": -0.05,
+  ""Utilities"": 0.02,
+  ""Real Estate"": 0.03,
+  ""Communication Services"": 0.20
+}"
+05_10_2024,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": -0.1,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": -0.05,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.2,
+  ""Industrials"": 0.15,
+  ""Information Technology"": 0.4,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.2
+}"
+05_12_2025,"{
+  ""Communication Services"": 0.55,
+  ""Consumer Discretionary"": 0.75,
+  ""Consumer Staples"": 0.25,
+  ""Energy"": 0.15,
+  ""Financials"": 0.35,
+  ""Health Care"": -0.45,
+  ""Industrials"": 0.5,
+  ""Information Technology"": 0.85,
+  ""Materials"": 0.3,
+  ""Real Estate"": 0.2,
+  ""Utilities"": 0.15
+}"
+05_13_2024,"{
+  ""Information Technology"": 0.6,
+  ""Health Care"": 0.35,
+  ""Financials"": 0.15,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.05,
+  ""Industrials"": 0.2,
+  ""Energy"": -0.05,
+  ""Materials"": 0.1,
+  ""Utilities"": -0.1,
+  ""Real Estate"": -0.2,
+  ""Communication Services"": 0.45,
+  ""S&P 500"": 0.3
+}"
+05_13_2025,"{
+  ""communication_services"": 0.15,
+  ""consumer_discretionary"": 0.25,
+  ""consumer_staples"": -0.1,
+  ""energy"": 0.05,
+  ""financials"": 0.1,
+  ""health_care"": -0.35,
+  ""industrials"": 0.2,
+  ""information_technology"": 0.35,
+  ""materials"": 0.0,
+  ""real_estate"": -0.1,
+  ""utilities"": -0.3
+}"
+05_14_2024,"{""Consumer Discretionary"":0.12,""Consumer Staples"":0.06,""Energy"":0.18,""Financials"":0.08,""Health Care"":0.04,""Industrials"":0.1,""Information Technology"":0.14,""Materials"":0.16,""Real Estate"":-0.02,""Utilities"":0.03}"
+05_14_2025,"{
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": 0.06,
+  ""Energy"": 0.03,
+  ""Financials"": 0.22,
+  ""Health Care"": -0.08,
+  ""Industrials"": 0.16,
+  ""Information Technology"": 0.48,
+  ""Materials"": 0.08,
+  ""Real Estate"": -0.12,
+  ""Utilities"": -0.03
+}"
+05_15_2025,"{""communication_services"":0.05,""consumer_discretionary"":-0.15,""consumer_staples"":0.2,""energy"":-0.2,""financials"":-0.1,""health_care"":-0.35,""industrials"":-0.1,""information_technology"":0.1,""materials"":-0.05,""real_estate"":-0.1,""utilities"":-0.05}"
+05_16_2024,"{
+  ""Financials"": 0.25,
+  ""Health Care"": 0.0,
+  ""Information Technology"": 0.35,
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.4,
+  ""Consumer Staples"": 0.55,
+  ""Energy"": -0.1,
+  ""Industrials"": 0.05,
+  ""Materials"": -0.25,
+  ""Utilities"": 0.05,
+  ""Real Estate"": 0.1
+}"
+05_16_2025,"{
+  ""Communication Services"": 0.45,
+  ""Consumer Discretionary"": 0.22,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": 0.18,
+  ""Financials"": 0.12,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.04,
+  ""Information Technology"": 0.55,
+  ""Materials"": 0.02,
+  ""Real Estate"": -0.12,
+  ""Utilities"": -0.1
+}"
+05_17_2024,"{""Communication Services"":0.2,""Consumer Discretionary"":0.35,""Consumer Staples"":0.15,""Energy"":0.1,""Financials"":0.05,""Health Care"":0.1,""Industrials"":0.0,""Information Technology"":0.45,""Materials"":0.05,""Real Estate"":-0.1,""Utilities"":-0.05}"
+05_19_2025,"{
+  ""communication_services"": -0.15,
+  ""consumer_discretionary"": -0.45,
+  ""consumer_staples"": -0.35,
+  ""energy"": -0.1,
+  ""financials"": -0.55,
+  ""health_care"": -0.25,
+  ""industrials"": -0.3,
+  ""information_technology"": -0.5,
+  ""materials"": -0.15,
+  ""real_estate"": -0.4,
+  ""utilities"": -0.2
+}"
+05_20_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": -0.2,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": 0.0,
+  ""Financials"": -0.1,
+  ""Health Care"": -0.05,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.05,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.1
+}"
+05_21_2024,"{
+  ""communication_services"": 0.55,
+  ""consumer_discretionary"": 0.1,
+  ""consumer_staples"": 0.2,
+  ""energy"": 0.05,
+  ""financials"": 0.15,
+  ""health_care"": 0.0,
+  ""industrials"": 0.1,
+  ""information_technology"": 0.7,
+  ""materials"": 0.05,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.35
+}"
+05_21_2025,"{
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.05,
+  ""Financials"": 0.2,
+  ""Health Care"": -0.2,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.35,
+  ""Materials"": 0.0,
+  ""Real Estate"": -0.1,
+  ""Communication Services"": 0.2,
+  ""Utilities"": 0.1
+}"
+05_22_2024,"{""Energy"":0.1,""Materials"":0.0,""Industrials"":0.05,""Consumer Discretionary"":-0.45,""Consumer Staples"":0.15,""Health Care"":0.05,""Financials"":-0.05,""Information Technology"":0.45,""Communication Services"":0.2,""Utilities"":0.1,""Real Estate"":-0.1}"
+05_22_2025,"{""Communication Services"":0.05,""Consumer Discretionary"":0.10,""Consumer Staples"":0.00,""Energy"":-0.15,""Financials"":-0.25,""Health Care"":-0.20,""Industrials"":0.00,""Information Technology"":0.15,""Materials"":-0.05,""Real Estate"":-0.30,""Utilities"":-0.20}"
+05_23_2024,"{
+  ""information_technology"": 0.95,
+  ""health_care"": 0.05,
+  ""financials"": 0.15,
+  ""consumer_discretionary"": 0.35,
+  ""consumer_staples"": 0.0,
+  ""energy"": -0.1,
+  ""utilities"": 0.2,
+  ""communication_services"": 0.25,
+  ""industrials"": 0.1,
+  ""materials"": 0.0,
+  ""real_estate"": -0.05
+}"
+05_23_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.55,""Consumer Staples"":-0.2,""Energy"":0.05,""Financials"":-0.1,""Health Care"":-0.2,""Industrials"":-0.35,""Information Technology"":-0.45,""Materials"":-0.25,""Real Estate"":-0.15,""Utilities"":0.05}"
+05_24_2024,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": -0.05,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.2,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.1
+}"
+05_28_2024,"{
+  ""Communication Services"": 0.22,
+  ""Consumer Discretionary"": 0.34,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": 0.12,
+  ""Financials"": -0.18,
+  ""Health Care"": -0.05,
+  ""Industrials"": 0.14,
+  ""Information Technology"": 0.38,
+  ""Materials"": 0.04,
+  ""Real Estate"": -0.22,
+  ""Utilities"": -0.12
+}"
+05_29_2024,"{""Communication Services"":0.25,""Consumer Discretionary"":-0.15,""Consumer Staples"":0.05,""Energy"":0.35,""Financials"":-0.1,""Health Care"":0.1,""Industrials"":-0.2,""Information Technology"":0.15,""Materials"":0.4,""Real Estate"":-0.25,""Utilities"":0.05}"
+05_31_2024,"{""Consumer Discretionary"":0.35,""Consumer Staples"":-0.05,""Energy"":0.2,""Financials"":0.1,""Health Care"":-0.05,""Industrials"":0.15,""Information Technology"":-0.1,""Materials"":0.15,""Real Estate"":-0.55,""Utilities"":-0.15,""Communication Services"":-0.1}"
+06_03_2024,"{
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.05,
+  ""Financials"": 0.0,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.55,
+  ""Materials"": -0.05,
+  ""Communication Services"": 0.2,
+  ""Utilities"": 0.1,
+  ""Real Estate"": 0.05
+}"
+06_05_2024,"{""Communication Services"":0.1,""Consumer Discretionary"":0.0,""Consumer Staples"":-0.05,""Energy"":0.1,""Financials"":0.05,""Health Care"":-0.1,""Industrials"":0.05,""Information Technology"":0.15,""Materials"":0.1,""Real Estate"":-0.2,""Utilities"":0.0}"
+06_10_2024,"{""Communication Services"":0.55,""Consumer Discretionary"":0.48,""Consumer Staples"":0.12,""Energy"":-0.08,""Financials"":0.1,""Health Care"":0.2,""Industrials"":0.05,""Information Technology"":0.72,""Materials"":-0.05,""Real Estate"":-0.28,""Utilities"":0.0}"
+06_11_2024,"{""CommunicationServices"":0.1,""ConsumerDiscretionary"":0.35,""ConsumerStaples"":0.15,""Energy"":0.05,""Financials"":-0.1,""HealthCare"":0.2,""Industrials"":0.1,""InformationTechnology"":0.45,""Materials"":-0.05,""RealEstate"":-0.35,""Utilities"":0.25}"
+06_17_2024,"{""Communication Services"":0.74,""Consumer Discretionary"":0.31,""Consumer Staples"":0.08,""Energy"":-0.18,""Financials"":-0.12,""Health Care"":0.04,""Industrials"":-0.03,""Information Technology"":0.82,""Materials"":-0.22,""Real Estate"":0.09,""Utilities"":0.15}"
+06_18_2024,"{""Communication Services"":0.41,""Consumer Discretionary"":0.12,""Consumer Staples"":-0.18,""Energy"":0.32,""Financials"":0.08,""Health Care"":0.04,""Industrials"":-0.42,""Information Technology"":0.57,""Materials"":-0.07,""Real Estate"":-0.31,""Utilities"":-0.09}"
+06_24_2024,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.05,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.15,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.2,
+  ""Utilities"": 0.05
+}"
+06_25_2024,"{
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.12,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.42,
+  ""Financials"": -0.08,
+  ""Health Care"": -0.12,
+  ""Industrials"": 0.28,
+  ""Information Technology"": 0.67,
+  ""Materials"": 0.14,
+  ""Real Estate"": -0.22,
+  ""Utilities"": 0.16
+}"
+06_26_2024,"{""Communication Services"":0.34,""Consumer Discretionary"":0.28,""Consumer Staples"":0.18,""Energy"":0.22,""Financials"":0.05,""Health Care"":0.12,""Industrials"":0.24,""Information Technology"":0.58,""Materials"":0.16,""Real Estate"":-0.18,""Utilities"":0.08}"
+06_27_2024,"{
+  ""communication_services"": 0.2,
+  ""consumer_discretionary"": -0.15,
+  ""consumer_staples"": -0.35,
+  ""energy"": 0.05,
+  ""financials"": -0.05,
+  ""health_care"": -0.45,
+  ""industrials"": 0.0,
+  ""information_technology"": -0.1,
+  ""materials"": -0.05,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.15
+}"
+06_28_2024,"{""communication_services"":0.62,""consumer_discretionary"":0.34,""consumer_staples"":0.12,""energy"":0.18,""financials"":0.22,""health_care"":0.28,""industrials"":0.14,""information_technology"":0.71,""materials"":0.08,""real_estate"":-0.05,""utilities"":0.05}"
+06_02_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.2,""Consumer Staples"":0.15,""Energy"":0.05,""Financials"":-0.25,""Health Care"":0.2,""Industrials"":-0.3,""Information Technology"":-0.1,""Materials"":-0.45,""Real Estate"":-0.1,""Utilities"":0.0}"
+07_01_2024,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.12,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": 0.18,
+  ""Financials"": 0.05,
+  ""Health Care"": -0.08,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.22,
+  ""Materials"": -0.06,
+  ""Real Estate"": -0.12,
+  ""Utilities"": -0.14
+}"
+07_02_2024,"{""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":0.35,""Financials"":0.1,""Health Care"":0.0,""Industrials"":0.25,""Information Technology"":0.2,""Materials"":0.05,""Real Estate"":-0.15,""Communication Services"":-0.1,""Utilities"":0.1}"
+07_03_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.35,""Consumer Staples"":0.2,""Energy"":0.1,""Financials"":0.05,""Health Care"":0.25,""Industrials"":0.15,""Information Technology"":0.3,""Materials"":0.1,""Real Estate"":-0.05,""Utilities"":0.0}"
+07_05_2024,"{""Information Technology"":0.65,""Health Care"":0.35,""Financials"":0.15,""Consumer Discretionary"":-0.2,""Consumer Staples"":0.05,""Energy"":0.1,""Industrials"":0.0,""Materials"":-0.05,""Utilities"":0.1,""Real Estate"":-0.25,""Communication Services"":0.55}"
+07_08_2024,"{
+  ""S&P 500"": 0.35,
+  ""Information Technology"": 0.55,
+  ""Health Care"": 0.15,
+  ""Financials"": 0.3,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.15,
+  ""Materials"": 0.0,
+  ""Industrials"": 0.05,
+  ""Utilities"": 0.2,
+  ""Real Estate"": -0.25,
+  ""Communication Services"": 0.25
+}"
+07_10_2024,"{""communication_services"":0.32,""consumer_discretionary"":0.41,""consumer_staples"":0.06,""energy"":0.18,""financials"":0.21,""health_care"":0.08,""industrials"":0.14,""information_technology"":0.52,""materials"":0.11,""real_estate"":-0.02,""utilities"":0.09}"
+07_11_2024,"{""CommunicationServices"":0.15,""ConsumerDiscretionary"":0.35,""ConsumerStaples"":-0.05,""Energy"":-0.15,""Financials"":0.1,""HealthCare"":0.25,""Industrials"":-0.2,""InformationTechnology"":0.5,""Materials"":0.0,""RealEstate"":0.2,""Utilities"":0.05}"
+07_12_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":0.18,""Consumer Staples"":-0.1,""Energy"":0.12,""Financials"":0.22,""Health Care"":0.04,""Industrials"":0.16,""Information Technology"":0.28,""Materials"":0.08,""Real Estate"":0.19,""Utilities"":0.02}"
+07_15_2024,"{""Consumer Discretionary"":0.1,""Consumer Staples"":0.0,""Energy"":0.15,""Financials"":0.35,""Health Care"":-0.05,""Industrials"":0.05,""Information Technology"":0.1,""Materials"":0.0,""Real Estate"":-0.1,""Communication Services"":0.05,""Utilities"":-0.05}"
+07_16_2024,"{""Communication Services"":0.18,""Consumer Discretionary"":0.22,""Consumer Staples"":0.08,""Energy"":0.14,""Financials"":0.42,""Health Care"":0.03,""Industrials"":0.16,""Information Technology"":-0.08,""Materials"":0.11,""Real Estate"":0.26,""Utilities"":0.05}"
+07_17_2024,"{
+  ""communication_services"": -0.18,
+  ""consumer_discretionary"": -0.12,
+  ""consumer_staples"": -0.08,
+  ""energy"": -0.04,
+  ""financials"": 0.22,
+  ""health_care"": 0.05,
+  ""industrials"": 0.14,
+  ""information_technology"": -0.35,
+  ""materials"": -0.06,
+  ""real_estate"": 0.28,
+  ""utilities"": 0.02
+}"
+07_17_2025,"{""Communication Services"":0.35,""Consumer Discretionary"":0.42,""Consumer Staples"":0.28,""Energy"":0.31,""Financials"":0.22,""Health Care"":0.18,""Industrials"":0.34,""Information Technology"":0.4,""Materials"":0.12,""Real Estate"":0.05,""Utilities"":0.03}"
+07_18_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.12,""Consumer Staples"":-0.08,""Energy"":-0.18,""Financials"":0.22,""Health Care"":0.12,""Industrials"":0.18,""Information Technology"":0.3,""Materials"":-0.05,""Real Estate"":0.15,""Utilities"":0.04}"
+07_22_2024,"{""InformationTechnology"":0.35,""HealthCare"":0.05,""Financials"":0.25,""ConsumerDiscretionary"":0.1,""ConsumerStaples"":0.0,""Energy"":0.15,""Utilities"":0.0,""Industrials"":-0.2,""Materials"":0.05,""RealEstate"":0.1,""CommunicationServices"":0.3}"
+07_23_2024,"{
+  ""Information Technology"": 0.76,
+  ""Communication Services"": 0.64,
+  ""Consumer Discretionary"": 0.19,
+  ""Consumer Staples"": 0.37,
+  ""Financials"": 0.31,
+  ""Health Care"": 0.08,
+  ""Industrials"": -0.14,
+  ""Energy"": -0.06,
+  ""Materials"": -0.18,
+  ""Utilities"": 0.05,
+  ""Real Estate"": -0.1,
+  ""S&P 500"": 0.42
+}"
+07_24_2024,"{
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": -0.62,
+  ""Consumer Staples"": -0.18,
+  ""Energy"": 0.12,
+  ""Financials"": -0.22,
+  ""Health Care"": 0.04,
+  ""Industrials"": -0.28,
+  ""Information Technology"": -0.74,
+  ""Materials"": -0.36,
+  ""Real Estate"": -0.47,
+  ""Utilities"": 0.01
+}"
+07_26_2024,"{
+  ""Information Technology"": 0.35,
+  ""Health Care"": 0.25,
+  ""Financials"": 0.4,
+  ""Consumer Discretionary"": -0.25,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": -0.05,
+  ""Industrials"": 0.15,
+  ""Materials"": -0.1,
+  ""Utilities"": 0.05,
+  ""Real Estate"": 0.1,
+  ""Communication Services"": 0.2
+}"
+07_30_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.1,""Consumer Staples"":-0.25,""Energy"":-0.05,""Financials"":0.05,""Health Care"":0.1,""Industrials"":0.0,""Information Technology"":0.2,""Materials"":-0.1,""Real Estate"":0.05,""Utilities"":0.0}"
+08_01_2024,"{""Communication Services"":0.7,""Consumer Discretionary"":0.8,""Consumer Staples"":0.2,""Energy"":0.5,""Financials"":0.6,""Health Care"":0.2,""Industrials"":0.5,""Information Technology"":0.9,""Materials"":0.3,""Real Estate"":0.7,""Utilities"":0.4}"
+08_02_2024,"{
+  ""Communication Services"": -0.25,
+  ""Consumer Discretionary"": -0.45,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": -0.35,
+  ""Financials"": -0.3,
+  ""Health Care"": -0.1,
+  ""Industrials"": -0.25,
+  ""Information Technology"": -0.55,
+  ""Materials"": -0.3,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.1
+}"
+08_05_2024,"{
+  ""Information Technology"": -0.78,
+  ""Health Care"": 0.18,
+  ""Financials"": -0.72,
+  ""Consumer Discretionary"": -0.62,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.81,
+  ""Industrials"": -0.56,
+  ""Materials"": -0.43,
+  ""Utilities"": 0.12,
+  ""Real Estate"": -0.28,
+  ""Communication Services"": -0.74,
+  ""S&P 500"": -0.71
+}"
+08_08_2024,"{
+  ""InformationTechnology"": 0.35,
+  ""HealthCare"": 0.55,
+  ""Financials"": -0.05,
+  ""ConsumerDiscretionary"": -0.35,
+  ""ConsumerStaples"": -0.1,
+  ""Energy"": 0.2,
+  ""Industrials"": -0.2,
+  ""Materials"": -0.15,
+  ""Utilities"": 0.15,
+  ""RealEstate"": 0.05,
+  ""CommunicationServices"": -0.25
+}"
+08_09_2024,"{""Communication Services"":0.28,""Consumer Discretionary"":0.12,""Consumer Staples"":0.18,""Energy"":-0.08,""Financials"":0.05,""Health Care"":0.22,""Industrials"":0.1,""Information Technology"":0.16,""Materials"":0.04,""Real Estate"":0.14,""Utilities"":0.2}"
+08_13_2024,"{
+  ""communication_services"": 0.25,
+  ""consumer_discretionary"": -0.55,
+  ""consumer_staples"": 0.1,
+  ""energy"": 0.3,
+  ""financials"": 0.15,
+  ""health_care"": 0.05,
+  ""industrials"": -0.25,
+  ""information_technology"": 0.4,
+  ""materials"": 0.0,
+  ""real_estate"": -0.6,
+  ""utilities"": 0.05
+}"
+08_14_2024,"{
+  ""Communication Services"": 0.32,
+  ""Consumer Discretionary"": 0.68,
+  ""Consumer Staples"": 0.18,
+  ""Energy"": 0.06,
+  ""Financials"": 0.22,
+  ""Health Care"": 0.15,
+  ""Industrials"": 0.24,
+  ""Information Technology"": 0.58,
+  ""Materials"": 0.05,
+  ""Real Estate"": 0.34,
+  ""Utilities"": 0.12
+}"
+08_15_2024,"{
+  ""Consumer Discretionary"": 0.58,
+  ""Consumer Staples"": 0.76,
+  ""Energy"": 0.12,
+  ""Financials"": 0.08,
+  ""Health Care"": 0.03,
+  ""Industrials"": 0.22,
+  ""Information Technology"": 0.41,
+  ""Materials"": 0.15,
+  ""Real Estate"": 0.31,
+  ""Communication Services"": 0.33,
+  ""Utilities"": 0.05
+}"
+08_16_2024,"{""CommunicationServices"":0.1,""ConsumerDiscretionary"":0.55,""ConsumerStaples"":0.65,""Energy"":0.15,""Financials"":0.2,""HealthCare"":0.25,""Industrials"":0.3,""InformationTechnology"":0.45,""Materials"":0.35,""RealEstate"":0.05,""Utilities"":0.1}"
+08_19_2024,"{""Communication Services"":0.2,""Consumer Discretionary"":0.15,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.3,""Health Care"":0.25,""Industrials"":0.2,""Information Technology"":0.35,""Materials"":0.1,""Real Estate"":0.22,""Utilities"":0.18}"
+08_20_2024,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.08,
+  ""Financials"": 0.12,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.14,
+  ""Information Technology"": 0.3,
+  ""Materials"": 0.22,
+  ""Real Estate"": 0.15,
+  ""Utilities"": 0.17
+}"
+08_21_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":0.15,""Consumer Staples"":0.18,""Energy"":0.08,""Financials"":0.12,""Health Care"":0.02,""Industrials"":0.1,""Information Technology"":0.14,""Materials"":0.09,""Real Estate"":0.2,""Utilities"":0.04}"
+08_22_2024,"{
+  ""Information Technology"": 0.25,
+  ""Health Care"": 0.05,
+  ""Financials"": 0.35,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.2,
+  ""Industrials"": 0.05,
+  ""Materials"": 0.0,
+  ""Utilities"": 0.1,
+  ""Real Estate"": 0.3,
+  ""Communication Services"": 0.18,
+  ""S&P 500"": 0.22
+}"
+08_23_2024,"{""Information Technology"":0.72,""Health Care"":0.12,""Financials"":0.18,""Consumer Discretionary"":0.10,""Consumer Staples"":0.34,""Energy"":0.05,""Industrials"":0.21,""Materials"":0.04,""Utilities"":0.28,""Real Estate"":0.14,""Communication Services"":0.31}"
+08_26_2024,"{
+  ""S&P 500"": 0.35,
+  ""Information Technology"": 0.55,
+  ""Health Care"": 0.2,
+  ""Financials"": 0.45,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.4,
+  ""Utilities"": 0.25,
+  ""Real Estate"": 0.3,
+  ""Materials"": 0.1,
+  ""Industrials"": 0.2,
+  ""Communication Services"": 0.5
+}"
+08_27_2024,"{""Communication Services"":0.21,""Consumer Discretionary"":0.12,""Consumer Staples"":0.18,""Energy"":0.08,""Financials"":0.05,""Health Care"":0.14,""Industrials"":0.07,""Information Technology"":0.22,""Materials"":0.04,""Real Estate"":0.11,""Utilities"":0.2}"
+08_29_2024,"{""communication_services"":0.32,""consumer_discretionary"":0.24,""consumer_staples"":0.08,""energy"":0.05,""financials"":0.18,""health_care"":0.04,""industrials"":0.15,""information_technology"":0.72,""materials"":0.1,""real_estate"":0.06,""utilities"":0.12}"
+08_30_2024,"{""S&P 500"":0.62,""Information Technology"":0.72,""Health Care"":0.08,""Financials"":0.28,""Consumer Discretionary"":0.35,""Consumer Staples"":0.12,""Industrials"":0.22,""Energy"":-0.05,""Utilities"":0.18,""Real Estate"":0.24,""Materials"":0.14,""Communication Services"":0.58}"
+09_03_2024,"{""communication_services"":0.1,""consumer_discretionary"":0.05,""consumer_staples"":0.02,""energy"":0.15,""financials"":0.08,""health_care"":0.0,""industrials"":0.12,""information_technology"":-0.05,""materials"":-0.12,""real_estate"":-0.08,""utilities"":0.03}"
+09_04_2024,"{
+  ""Communication Services"": -0.05,
+  ""Consumer Discretionary"": -0.45,
+  ""Consumer Staples"": -0.35,
+  ""Energy"": 0.25,
+  ""Financials"": -0.1,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.1,
+  ""Information Technology"": -0.65,
+  ""Materials"": -0.25,
+  ""Real Estate"": -0.2,
+  ""Utilities"": 0.15
+}"
+09_05_2024,"{""communication_services"":0.08,""consumer_discretionary"":-0.22,""consumer_staples"":0.15,""energy"":0.18,""financials"":-0.05,""health_care"":0.12,""industrials"":-0.18,""information_technology"":0.05,""materials"":-0.12,""real_estate"":0.2,""utilities"":0.1}"
+09_06_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":0.18,""Consumer Staples"":0.05,""Energy"":-0.28,""Financials"":-0.22,""Health Care"":0.08,""Industrials"":0.02,""Information Technology"":0.15,""Materials"":-0.25,""Real Estate"":0.06,""Utilities"":0.04}"
+09_09_2024,"{
+  ""sector_sentiment"": {
+    ""Communication Services"": 0.2,
+    ""Consumer Discretionary"": 0.1,
+    ""Consumer Staples"": 0.15,
+    ""Energy"": -0.55,
+    ""Financials"": 0.05,
+    ""Health Care"": 0.1,
+    ""Industrials"": -0.05,
+    ""Information Technology"": 0.35,
+    ""Materials"": -0.4,
+    ""Real Estate"": 0.0,
+    ""Utilities"": 0.05
+  }
+}"
+09_10_2024,"{
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.35,
+  ""Financials"": 0.1,
+  ""Health Care"": -0.05,
+  ""Industrials"": 0.08,
+  ""Information Technology"": 0.12,
+  ""Materials"": -0.08,
+  ""Real Estate"": -0.02,
+  ""Communication Services"": 0.04,
+  ""Utilities"": 0.18
+}"
+09_11_2024,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": -0.05,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": -0.45,
+  ""Financials"": -0.55,
+  ""Health Care"": 0.2,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.05,
+  ""Materials"": -0.35,
+  ""Real Estate"": 0.15,
+  ""Utilities"": 0.2
+}"
+09_12_2024,"{
+  ""information_technology"": 0.75,
+  ""communication_services"": 0.62,
+  ""consumer_discretionary"": 0.28,
+  ""consumer_staples"": -0.08,
+  ""health_care"": 0.05,
+  ""financials"": 0.12,
+  ""industrials"": -0.18,
+  ""materials"": -0.22,
+  ""energy"": -0.45,
+  ""utilities"": -0.12,
+  ""real_estate"": 0.04
+}"
+09_13_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.35,""Consumer Staples"":0.05,""Energy"":0.2,""Financials"":0.1,""Health Care"":0.05,""Industrials"":0.0,""Information Technology"":0.4,""Materials"":0.1,""Real Estate"":0.05,""Utilities"":0.2}"
+09_16_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":0.1,""Consumer Staples"":-0.1,""Energy"":-0.15,""Financials"":0.35,""Health Care"":0.0,""Industrials"":-0.05,""Information Technology"":0.2,""Materials"":-0.1,""Real Estate"":0.3,""Utilities"":0.25}"
+09_20_2024,"{""Communication Services"":0.55,""Consumer Discretionary"":0.2,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.2,""Health Care"":0.1,""Industrials"":-0.25,""Information Technology"":0.15,""Materials"":-0.35,""Real Estate"":0.25,""Utilities"":0.05}"
+09_23_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.25,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.2,""Health Care"":0.1,""Industrials"":0.0,""Information Technology"":0.35,""Materials"":-0.05,""Real Estate"":0.1,""Utilities"":0.2}"
+09_24_2024,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": 0.3,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.35,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.18,
+  ""Materials"": 0.28,
+  ""Real Estate"": 0.15,
+  ""Utilities"": 0.22
+}"
+09_25_2024,"{""InformationTechnology"":0.7,""HealthCare"":0.1,""Financials"":0.15,""ConsumerDiscretionary"":0.25,""ConsumerStaples"":0.35,""Energy"":0.2,""Industrials"":0.4,""Materials"":0.45,""Utilities"":0.55,""RealEstate"":0.3,""CommunicationServices"":0.65,""Sectors"":0.0}"
+09_26_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":0.62,""Consumer Staples"":0.08,""Energy"":-0.18,""Financials"":0.22,""Health Care"":0.12,""Industrials"":0.31,""Information Technology"":0.78,""Materials"":0.74,""Real Estate"":0.28,""Utilities"":0.09}"
+09_27_2024,"{""CommunicationServices"":0.17,""ConsumerDiscretionary"":0.48,""ConsumerStaples"":0.29,""Energy"":-0.11,""Financials"":0.21,""HealthCare"":0.08,""Industrials"":0.18,""InformationTechnology"":0.36,""Materials"":0.31,""RealEstate"":0.14,""Utilities"":0.19}"
+09_30_2024,"{""Consumer Discretionary"":0.48,""Consumer Staples"":-0.12,""Energy"":-0.05,""Financials"":0.18,""Health Care"":0.06,""Industrials"":-0.18,""Information Technology"":0.12,""Materials"":0.15,""Real Estate"":0.02,""Communication Services"":0.10,""Utilities"":-0.08}"
+10_01_2024,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": 0.02,
+  ""Financials"": 0.12,
+  ""Health Care"": -0.1,
+  ""Industrials"": -0.35,
+  ""Information Technology"": 0.0,
+  ""Materials"": -0.18,
+  ""Real Estate"": 0.08,
+  ""Utilities"": -0.05
+}"
+10_01_2025,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.35,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.15,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.2,
+  ""Industrials"": -0.2,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.25,
+  ""Real Estate"": -0.15,
+  ""Utilities"": 0.2
+}"
+10_02_2024,"{
+  ""Communication Services"": 0.08,
+  ""Consumer Discretionary"": -0.12,
+  ""Consumer Staples"": 0.03,
+  ""Energy"": 0.62,
+  ""Financials"": 0.14,
+  ""Health Care"": -0.02,
+  ""Industrials"": -0.08,
+  ""Information Technology"": -0.05,
+  ""Materials"": 0.04,
+  ""Real Estate"": 0.01,
+  ""Utilities"": 0.06
+}"
+10_03_2024,"{""communication_services"":0.15,""consumer_discretionary"":0.05,""consumer_staples"":0.1,""energy"":0.35,""financials"":-0.05,""health_care"":0.05,""industrials"":0.0,""information_technology"":-0.02,""materials"":0.1,""real_estate"":0.0,""utilities"":0.05}"
+10_04_2024,"{""CommunicationServices"":0.18,""ConsumerDiscretionary"":0.22,""ConsumerStaples"":0.05,""Energy"":0.62,""Financials"":0.12,""HealthCare"":0.04,""Industrials"":0.28,""InformationTechnology"":0.14,""Materials"":0.31,""RealEstate"":-0.08,""Utilities"":0.03}"
+10_07_2024,"{""InformationTechnology"":0.45,""HealthCare"":0.2,""Financials"":0.35,""ConsumerDiscretionary"":0.15,""ConsumerStaples"":0.05,""Energy"":0.4,""Industrials"":0.25,""Materials"":0.2,""Utilities"":0.0,""RealEstate"":-0.1,""CommunicationServices"":0.1}"
+10_08_2024,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": -0.25,
+  ""Energy"": 0.45,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.15,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.3,
+  ""Materials"": 0.15,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.15
+}"
+10_09_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.1,""Consumer Staples"":-0.05,""Energy"":0.1,""Financials"":0.15,""Health Care"":0.0,""Industrials"":-0.15,""Information Technology"":-0.05,""Materials"":0.0,""Real Estate"":-0.1,""Utilities"":-0.05}"
+10_10_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":0.45,""Consumer Staples"":0.15,""Energy"":0.25,""Financials"":0.2,""Health Care"":0.1,""Industrials"":0.3,""Information Technology"":0.5,""Materials"":0.2,""Real Estate"":0.05,""Utilities"":0.0}"
+10_10_2025,"{""Communication Services"":0.75,""Consumer Discretionary"":0.45,""Consumer Staples"":-0.1,""Energy"":0.55,""Financials"":0.2,""Health Care"":0.05,""Industrials"":0.35,""Information Technology"":0.7,""Materials"":0.6,""Real Estate"":-0.05,""Utilities"":0.4}"
+10_11_2024,"{""Basic Materials"":0.08,""Communication Services"":0.32,""Consumer Cyclical"":0.24,""Consumer Defensive"":0.12,""Energy"":-0.1,""Financial"":0.68,""Healthcare"":0.05,""Industrials"":0.18,""Technology"":0.22,""Utilities"":0.1}"
+10_13_2025,"{""communication_services"":0.15,""consumer_discretionary"":0.3,""consumer_staples"":0.05,""energy"":0.45,""financials"":0.25,""health_care"":0.1,""industrials"":0.55,""information_technology"":0.4,""materials"":0.75,""real_estate"":0.0,""utilities"":0.25}"
+10_14_2025,"{
+  ""Information Technology"": 0.35,
+  ""Health Care"": -0.05,
+  ""Financials"": 0.55,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.1,
+  ""Industrials"": 0.15,
+  ""Materials"": 0.25,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.15,
+  ""Communication Services"": 0.3
+}"
+10_17_2024,"{
+  ""Consumer Discretionary"": 0.72,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": -0.08,
+  ""Financials"": 0.18,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.03,
+  ""Information Technology"": 0.74,
+  ""Materials"": 0.01,
+  ""Real Estate"": 0.22,
+  ""Communication Services"": 0.31,
+  ""Utilities"": -0.02
+}"
+10_20_2025,"{""communication_services"":0.12,""consumer_discretionary"":0.24,""consumer_staples"":-0.05,""energy"":0.18,""financials"":-0.22,""health_care"":0.08,""industrials"":0.27,""information_technology"":0.35,""materials"":0.31,""real_estate"":-0.12,""utilities"":0.04}"
+10_21_2024,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.02,
+  ""Energy"": 0.25,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.08,
+  ""Information Technology"": 0.12,
+  ""Materials"": 0.18,
+  ""Real Estate"": 0.0,
+  ""Utilities"": -0.02
+}"
+10_21_2025,"{
+  ""communication_services"": 0.72,
+  ""consumer_discretionary"": 0.68,
+  ""consumer_staples"": 0.55,
+  ""energy"": 0.18,
+  ""financials"": 0.61,
+  ""health_care"": 0.12,
+  ""industrials"": 0.74,
+  ""information_technology"": 0.59,
+  ""materials"": 0.46,
+  ""real_estate"": 0.22,
+  ""utilities"": 0.14
+}"
+10_22_2024,"{
+  ""Energy"": 0.15,
+  ""Materials"": -0.1,
+  ""Industrials"": -0.05,
+  ""Consumer Discretionary"": -0.15,
+  ""Consumer Staples"": 0.05,
+  ""Health Care"": 0.0,
+  ""Financials"": 0.3,
+  ""Information Technology"": 0.25,
+  ""Communication Services"": 0.05,
+  ""Utilities"": -0.05,
+  ""Real Estate"": -0.2
+}"
+10_22_2025,"{""Consumer Discretionary"":0.08,""Consumer Staples"":-0.12,""Energy"":0.18,""Financials"":0.32,""Health Care"":0.21,""Industrials"":0.28,""Information Technology"":0.45,""Materials"":0.12,""Real Estate"":-0.05,""Utilities"":0.22,""Communication Services"":0.35}"
+10_23_2024,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": -0.45,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": 0.05,
+  ""Financials"": 0.1,
+  ""Health Care"": -0.05,
+  ""Industrials"": -0.35,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.1,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.05
+}"
+10_24_2024,"{""Communication_Services"":0.12,""Consumer_Discretionary"":0.34,""Consumer_Staples"":0.08,""Energy"":-0.08,""Financials"":0.18,""Health_Care"":0.03,""Industrials"":-0.22,""Information_Technology"":0.29,""Materials"":-0.14,""Real_Estate"":0.02,""Utilities"":-0.03}"
+10_25_2024,"{""Communication Services"":0.1,""Consumer Discretionary"":0.15,""Consumer Staples"":-0.2,""Energy"":-0.05,""Financials"":0.05,""Health Care"":-0.1,""Industrials"":0.0,""Information Technology"":0.25,""Materials"":-0.05,""Real Estate"":-0.15,""Utilities"":0.1}"
+10_27_2025,"{
+  ""Communication Services"": 0.78,
+  ""Consumer Discretionary"": 0.7,
+  ""Consumer Staples"": 0.32,
+  ""Energy"": 0.12,
+  ""Financials"": 0.48,
+  ""Health Care"": 0.52,
+  ""Industrials"": 0.36,
+  ""Information Technology"": 0.88,
+  ""Materials"": 0.2,
+  ""Real Estate"": 0.08,
+  ""Utilities"": 0.22
+}"
+10_28_2024,"{""communication_services"":0.72,""consumer_discretionary"":0.68,""consumer_staples"":0.12,""energy"":-0.74,""financials"":0.31,""health_care"":0.22,""industrials"":0.05,""information_technology"":0.74,""materials"":-0.28,""real_estate"":0.03,""utilities"":0.08}"
+10_28_2025,"{
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.24,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": 0.12,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.16,
+  ""Industrials"": 0.19,
+  ""Information Technology"": 0.35,
+  ""Materials"": 0.14,
+  ""Real Estate"": 0.09,
+  ""Utilities"": 0.11
+}"
+10_29_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.18,""Consumer Staples"":-0.22,""Energy"":0.08,""Financials"":0.14,""Health Care"":0.05,""Industrials"":-0.06,""Information Technology"":0.18,""Materials"":0.03,""Real Estate"":-0.24,""Utilities"":-0.12}"
+10_29_2025,"{""Communication Services"":0.72,""Consumer Discretionary"":0.64,""Consumer Staples"":0.12,""Energy"":0.18,""Financials"":0.28,""Health Care"":0.05,""Industrials"":0.31,""Information Technology"":0.91,""Materials"":0.24,""Real Estate"":0.09,""Utilities"":0.22}"
+10_30_2024,"{""Communication Services"":0.85,""Consumer Discretionary"":0.22,""Consumer Staples"":-0.18,""Energy"":0.14,""Financials"":0.31,""Health Care"":-0.42,""Industrials"":-0.36,""Information Technology"":0.93,""Materials"":-0.27,""Real Estate"":0.08,""Utilities"":0.12}"
+10_30_2025,"{""Communication Services"":0.62,""Consumer Discretionary"":0.05,""Consumer Staples"":0.12,""Energy"":0.31,""Financials"":0.08,""Health Care"":0.46,""Industrials"":0.14,""Information Technology"":0.58,""Materials"":0.22,""Real Estate"":-0.04,""Utilities"":0.18}"
+10_31_2024,"{
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.2,
+  ""Financials"": 0.25,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.1,
+  ""Information Technology"": -0.35,
+  ""Materials"": 0.0,
+  ""Real Estate"": 0.1,
+  ""Communication Services"": -0.3,
+  ""Utilities"": 0.08
+}"
+10_31_2025,"{""Communication Services"":0.72,""Consumer Discretionary"":0.9,""Consumer Staples"":0.18,""Energy"":0.28,""Financials"":0.22,""Health Care"":0.12,""Industrials"":0.31,""Information Technology"":0.95,""Materials"":0.27,""Real Estate"":0.08,""Utilities"":0.19}"
+10_03_2025,"{
+  ""Information Technology"": 0.65,
+  ""Health Care"": 0.28,
+  ""Financials"": 0.42,
+  ""Consumer Discretionary"": 0.48,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": 0.24,
+  ""Industrials"": 0.18,
+  ""Materials"": 0.39,
+  ""Utilities"": 0.1,
+  ""Real Estate"": 0.05,
+  ""Communication Services"": 0.58
+}"
+10_06_2025,"{""Communication Services"":0.35,""Consumer Discretionary"":0.25,""Consumer Staples"":0.1,""Energy"":0.2,""Financials"":0.3,""Health Care"":0.15,""Industrials"":0.45,""Information Technology"":0.8,""Materials"":0.2,""Real Estate"":0.05,""Utilities"":0.4}"
+10_07_2025,"{
+  ""InformationTechnology"": 0.82,
+  ""Financials"": 0.34,
+  ""HealthCare"": 0.12,
+  ""ConsumerDiscretionary"": 0.41,
+  ""ConsumerStaples"": 0.05,
+  ""Industrials"": 0.28,
+  ""Energy"": 0.18,
+  ""Materials"": 0.57,
+  ""Utilities"": -0.08,
+  ""RealEstate"": 0.22,
+  ""CommunicationServices"": 0.76,
+  ""BasicMaterials"": 0.57
+}"
+10_08_2025,"{""Communication Services"":0.5,""Consumer Discretionary"":0.35,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":-0.15,""Health Care"":0.0,""Industrials"":0.05,""Information Technology"":0.55,""Materials"":0.15,""Real Estate"":-0.1,""Utilities"":0.2}"
+10_09_2025,"{
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.46,
+  ""Consumer Staples"": 0.24,
+  ""Energy"": 0.28,
+  ""Financials"": 0.12,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.31,
+  ""Information Technology"": 0.58,
+  ""Materials"": 0.36,
+  ""Real Estate"": 0.08,
+  ""Utilities"": 0.14
+}"
+11_01_2024,"{
+  ""Communication Services"": 0.12,
+  ""Consumer Discretionary"": 0.28,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": 0.22,
+  ""Financials"": 0.18,
+  ""Health Care"": -0.12,
+  ""Industrials"": -0.05,
+  ""Information Technology"": 0.34,
+  ""Materials"": 0.06,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.07
+}"
+11_04_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":0.08,""Consumer Staples"":-0.05,""Energy"":0.28,""Financials"":0.18,""Health Care"":0.04,""Industrials"":0.02,""Information Technology"":0.10,""Materials"":0.00,""Real Estate"":-0.08,""Utilities"":-0.02}"
+11_07_2024,"{
+  ""Financials"": 0.7,
+  ""Information Technology"": 0.55,
+  ""Consumer Discretionary"": 0.65,
+  ""Consumer Staples"": -0.15,
+  ""Health Care"": 0.2,
+  ""Industrials"": -0.05,
+  ""Materials"": 0.15,
+  ""Energy"": -0.1,
+  ""Utilities"": -0.2,
+  ""Real Estate"": 0.05,
+  ""Communication Services"": 0.4
+}"
+11_10_2025,"{""Communication Services"":0.35,""Consumer Discretionary"":0.25,""Consumer Staples"":0.15,""Energy"":0.05,""Financials"":0.2,""Health Care"":-0.1,""Industrials"":-0.05,""Information Technology"":0.7,""Materials"":0.1,""Real Estate"":-0.05,""Utilities"":0.0}"
+11_11_2024,"{
+  ""S&P 500"": 0.75,
+  ""Information Technology"": 0.85,
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.8,
+  ""Consumer Staples"": -0.1,
+  ""Health Care"": 0.05,
+  ""Financials"": 0.7,
+  ""Industrials"": 0.25,
+  ""Materials"": 0.1,
+  ""Energy"": 0.45,
+  ""Utilities"": -0.15,
+  ""Real Estate"": -0.35
+}"
+11_11_2025,"{""communication_services"":0.35,""consumer_discretionary"":0.1,""consumer_staples"":0.02,""energy"":0.28,""financials"":-0.05,""health_care"":-0.12,""industrials"":0.18,""information_technology"":0.12,""materials"":0.22,""real_estate"":-0.08,""utilities"":0.05}"
+11_12_2024,"{""Communication Services"":0.35,""Consumer Discretionary"":0.25,""Consumer Staples"":0.1,""Energy"":0.15,""Financials"":0.3,""Health Care"":-0.05,""Industrials"":0.2,""Information Technology"":0.25,""Materials"":0.1,""Real Estate"":-0.35,""Utilities"":-0.1}"
+11_12_2025,"{""Communication Services"":0.55,""Consumer Discretionary"":0.48,""Consumer Staples"":0.22,""Energy"":0.33,""Financials"":0.44,""Health Care"":0.12,""Industrials"":0.31,""Information Technology"":0.72,""Materials"":0.58,""Real Estate"":0.19,""Utilities"":0.27}"
+11_13_2024,"{
+  ""Communication Services"": 0.4,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.1,
+  ""Financials"": 0.8,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.5,
+  ""Information Technology"": 0.3,
+  ""Materials"": 0.1,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.2
+}"
+11_13_2025,"{""Communication Services"":0.45,""Consumer Discretionary"":0.25,""Consumer Staples"":-0.1,""Energy"":0.05,""Financials"":0.35,""Health Care"":0.15,""Industrials"":0.4,""Information Technology"":0.7,""Materials"":0.1,""Real Estate"":-0.15,""Utilities"":0.05}"
+11_14_2024,"{""Communication Services"":0.45,""Consumer Discretionary"":0.28,""Consumer Staples"":0.05,""Energy"":-0.12,""Financials"":0.18,""Health Care"":0.08,""Industrials"":0.14,""Information Technology"":0.32,""Materials"":-0.18,""Real Estate"":0.02,""Utilities"":-0.22}"
+11_14_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.05,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.2,""Health Care"":0.15,""Industrials"":0.05,""Information Technology"":-0.35,""Materials"":0.1,""Real Estate"":-0.1,""Utilities"":0.0}"
+11_15_2024,"{""Communication Services"":0.55,""Consumer Discretionary"":0.35,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.75,""Health Care"":-0.15,""Industrials"":0.6,""Information Technology"":0.7,""Materials"":0.1,""Real Estate"":0.0,""Utilities"":-0.05}"
+11_17_2025,"{""Communication Services"":0.35,""Consumer Discretionary"":0.1,""Consumer Staples"":0.15,""Energy"":0.0,""Financials"":0.2,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":0.45,""Materials"":-0.05,""Real Estate"":0.05,""Utilities"":0.0}"
+11_18_2024,"{""Communication Services"":0.05,""Consumer Discretionary"":0.18,""Consumer Staples"":0.24,""Energy"":0.12,""Financials"":0.09,""Health Care"":0.08,""Industrials"":0.14,""Information Technology"":0.2,""Materials"":0.06,""Real Estate"":-0.03,""Utilities"":0.01}"
+11_18_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.45,""Consumer Staples"":-0.1,""Energy"":0.15,""Financials"":-0.2,""Health Care"":0.2,""Industrials"":-0.3,""Information Technology"":-0.55,""Materials"":-0.15,""Real Estate"":-0.35,""Utilities"":0.05}"
+11_19_2024,"{""Communication Services"":0.25,""Consumer Discretionary"":0.35,""Consumer Staples"":0.2,""Energy"":-0.1,""Financials"":0.15,""Health Care"":0.0,""Industrials"":0.1,""Information Technology"":0.2,""Materials"":0.3,""Real Estate"":-0.25,""Utilities"":0.05}"
+11_19_2025,"{
+  ""Information Technology"": 0.3,
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": -0.35,
+  ""Consumer Staples"": -0.05,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.2,
+  ""Materials"": 0.05,
+  ""Energy"": 0.15,
+  ""Utilities"": 0.25,
+  ""Real Estate"": -0.1
+}"
+11_20_2024,"{""communication_services"":0.4,""consumer_discretionary"":-0.7,""consumer_staples"":-0.2,""energy"":0.2,""financials"":0.5,""health_care"":0.1,""industrials"":0.1,""information_technology"":0.7,""materials"":-0.1,""real_estate"":-0.1,""utilities"":0.0}"
+11_20_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":0.2,""Consumer Staples"":0.35,""Energy"":0.05,""Financials"":0.15,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":0.85,""Materials"":0.0,""Real Estate"":-0.1,""Utilities"":0.15}"
+11_21_2024,"{""CommunicationServices"":0.05,""ConsumerDiscretionary"":0.1,""ConsumerStaples"":0.02,""Energy"":0.08,""Financials"":0.18,""HealthCare"":0.06,""Industrials"":-0.05,""InformationTechnology"":0.42,""Materials"":0.01,""RealEstate"":-0.1,""Utilities"":0.0}"
+11_21_2025,"{""Communication Services"":0.42,""Consumer Discretionary"":0.31,""Consumer Staples"":0.18,""Energy"":0.05,""Financials"":0.12,""Health Care"":0.22,""Industrials"":0.14,""Information Technology"":0.24,""Materials"":0.03,""Real Estate"":0.16,""Utilities"":0.08}"
+11_22_2024,"{""Communication Services"":0.2,""Consumer Discretionary"":0.3,""Consumer Staples"":0.15,""Energy"":0.35,""Financials"":0.1,""Health Care"":-0.25,""Industrials"":0.05,""Information Technology"":0.25,""Materials"":-0.1,""Real Estate"":0.0,""Utilities"":0.05}"
+11_24_2025,"{
+  ""Communication Services"": 0.78,
+  ""Consumer Discretionary"": 0.64,
+  ""Consumer Staples"": 0.42,
+  ""Energy"": -0.22,
+  ""Financials"": 0.31,
+  ""Health Care"": 0.18,
+  ""Industrials"": 0.57,
+  ""Information Technology"": 0.82,
+  ""Materials"": 0.46,
+  ""Real Estate"": 0.21,
+  ""Utilities"": 0.12
+}"
+11_25_2024,"{
+  ""Consumer Discretionary"": 0.55,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.3,
+  ""Financials"": 0.7,
+  ""Health Care"": -0.05,
+  ""Industrials"": 0.35,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.2,
+  ""Real Estate"": 0.1,
+  ""Communication Services"": 0.25,
+  ""Utilities"": 0.05
+}"
+11_25_2025,"{""communication_services"":0.65,""consumer_discretionary"":0.18,""consumer_staples"":-0.05,""energy"":0.12,""financials"":0.08,""health_care"":0.05,""industrials"":0.14,""information_technology"":0.22,""materials"":0.03,""real_estate"":-0.06,""utilities"":-0.18}"
+11_26_2024,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.2,""Consumer Staples"":0.2,""Energy"":-0.1,""Financials"":0.1,""Health Care"":-0.2,""Industrials"":-0.1,""Information Technology"":0.0,""Materials"":-0.1,""Real Estate"":0.0,""Utilities"":0.0}"
+11_26_2025,"{
+  ""Communication Services"": 0.78,
+  ""Consumer Discretionary"": 0.33,
+  ""Consumer Staples"": -0.12,
+  ""Energy"": -0.22,
+  ""Financials"": 0.21,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.18,
+  ""Information Technology"": 0.72,
+  ""Materials"": -0.31,
+  ""Real Estate"": 0.02,
+  ""Utilities"": 0.17
+}"
+11_27_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.05,""Consumer Staples"":-0.2,""Energy"":-0.1,""Financials"":0.1,""Health Care"":0.0,""Industrials"":-0.15,""Information Technology"":-0.05,""Materials"":-0.1,""Real Estate"":-0.1,""Utilities"":0.0}"
+11_29_2024,"{
+  ""Information Technology"": 0.35,
+  ""Health Care"": 0.08,
+  ""Financials"": 0.28,
+  ""Consumer Discretionary"": 0.12,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.15,
+  ""Industrials"": 0.02,
+  ""Materials"": -0.05,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.03,
+  ""Communication Services"": 0.1
+}"
+11_03_2025,"{""communication_services"":0.78,""consumer_discretionary"":0.22,""consumer_staples"":0.35,""energy"":0.18,""financials"":0.31,""health_care"":0.12,""industrials"":0.42,""information_technology"":0.84,""materials"":0.27,""real_estate"":0.15,""utilities"":0.24}"
+11_05_2025,"{""Communication Services"":0.4,""Consumer Discretionary"":0.0,""Consumer Staples"":0.1,""Energy"":0.0,""Financials"":0.2,""Health Care"":-0.3,""Industrials"":-0.2,""Information Technology"":-0.4,""Materials"":-0.1,""Real Estate"":0.1,""Utilities"":-0.1}"
+11_06_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": -0.15,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.05,
+  ""Financials"": 0.0,
+  ""Health Care"": 0.1,
+  ""Industrials"": -0.2,
+  ""Information Technology"": 0.15,
+  ""Materials"": -0.05,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.05
+}"
+11_07_2025,"{
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.42,
+  ""Consumer Staples"": -0.12,
+  ""Energy"": 0.05,
+  ""Financials"": 0.14,
+  ""Health Care"": 0.06,
+  ""Industrials"": -0.18,
+  ""Information Technology"": 0.27,
+  ""Materials"": -0.05,
+  ""Real Estate"": 0.22,
+  ""Utilities"": 0.02
+}"
+12_03_2024,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.25,
+  ""Energy"": 0.05,
+  ""Financials"": 0.3,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.05,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.15,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.0
+}"
+12_04_2024,"{""Communication Services"":0.58,""Consumer Discretionary"":0.14,""Consumer Staples"":-0.08,""Energy"":0.33,""Financials"":0.46,""Health Care"":0.37,""Industrials"":0.11,""Information Technology"":0.72,""Materials"":0.22,""Real Estate"":-0.12,""Utilities"":0.05}"
+12_05_2024,"{
+  ""information_technology"": 0.55,
+  ""communication_services"": 0.35,
+  ""consumer_discretionary"": 0.72,
+  ""consumer_staples"": -0.12,
+  ""energy"": 0.05,
+  ""financials"": 0.48,
+  ""health_care"": 0.62,
+  ""industrials"": 0.44,
+  ""materials"": 0.18,
+  ""real_estate"": 0.22,
+  ""utilities"": 0.06
+}"
+12_10_2024,"{""S&P 500"":{""sentiment"":0.35},""Information Technology"":{""sentiment"":0.6},""Health Care"":{""sentiment"":-0.15},""Financials"":{""sentiment"":0.2},""Consumer Discretionary"":{""sentiment"":0.45},""Consumer Staples"":{""sentiment"":0.1},""Energy"":{""sentiment"":-0.05},""Utilities"":{""sentiment"":0.05},""Industrials"":{""sentiment"":0.25},""Materials"":{""sentiment"":0.05},""Real Estate"":{""sentiment"":0.15},""Communication Services"":{""sentiment"":0.4}}"
+12_10_2025,"{""Communication Services"":0.25,""Consumer Discretionary"":0.35,""Consumer Staples"":0.1,""Energy"":0.45,""Financials"":0.2,""Health Care"":0.15,""Industrials"":0.3,""Information Technology"":0.55,""Materials"":0.25,""Real Estate"":0.05,""Utilities"":0.1}"
+12_11_2024,"{
+  ""Information Technology"": 0.35,
+  ""Health Care"": 0.22,
+  ""Financials"": 0.18,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": -0.18,
+  ""Industrials"": 0.12,
+  ""Materials"": 0.04,
+  ""Utilities"": 0.03,
+  ""Real Estate"": 0.09,
+  ""Communication Services"": 0.28,
+  ""S&P 500"": 0.14
+}"
+12_11_2025,"{""Communication Services"":0.3,""Consumer Discretionary"":0.45,""Consumer Staples"":0.1,""Energy"":-0.1,""Financials"":0.15,""Health Care"":0.25,""Industrials"":0.2,""Information Technology"":0.35,""Materials"":0.0,""Real Estate"":0.1,""Utilities"":0.05}"
+12_12_2024,"{""Communication_services"":0.18,""Consumer_discretionary"":0.32,""Consumer_staples"":0.11,""Energy"":0.07,""Financials"":0.28,""Health_care"":0.05,""Industrials"":0.21,""Information_technology"":0.34,""Materials"":0.12,""Real_estate"":0.19,""Utilities"":0.09}"
+12_12_2025,"{""Communication Services"":0.42,""Consumer Discretionary"":0.18,""Consumer Staples"":0.12,""Energy"":0.15,""Financials"":0.28,""Health Care"":0.22,""Industrials"":0.31,""Information Technology"":0.19,""Materials"":0.17,""Real Estate"":0.09,""Utilities"":0.26}"
+12_13_2024,"{
+  ""information_technology"": 0.78,
+  ""communication_services"": 0.55,
+  ""consumer_discretionary"": 0.48,
+  ""consumer_staples"": 0.22,
+  ""health_care"": 0.12,
+  ""financials"": 0.36,
+  ""industrials"": 0.41,
+  ""materials"": 0.18,
+  ""energy"": 0.27,
+  ""utilities"": 0.05,
+  ""real_estate"": -0.08,
+  ""extra"": 0.3
+}"
+12_15_2025,"{""communication_services"":0.35,""consumer_discretionary"":0.2,""consumer_staples"":0.15,""energy"":-0.05,""financials"":0.1,""health_care"":0.2,""industrials"":0.15,""information_technology"":0.45,""materials"":0.05,""real_estate"":0.1,""utilities"":0.0}"
+12_16_2024,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.3,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.0,
+  ""Information Technology"": 0.35,
+  ""Materials"": -0.1,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.1
+}"
+12_16_2025,"{""Communication Services"":0.25,""Consumer Discretionary"":0.2,""Consumer Staples"":-0.15,""Energy"":0.3,""Financials"":0.15,""Health Care"":-0.05,""Industrials"":0.1,""Information Technology"":0.4,""Materials"":0.2,""Real Estate"":-0.1,""Utilities"":-0.05}"
+12_17_2024,"{""Communication Services"":0.25,""Consumer Discretionary"":0.3,""Consumer Staples"":0.15,""Energy"":0.2,""Financials"":0.35,""Health Care"":0.1,""Industrials"":0.2,""Information Technology"":0.45,""Materials"":0.05,""Real Estate"":0.0,""Utilities"":0.0}"
+12_17_2025,"{""Consumer Discretionary"":0.42,""Consumer Staples"":0.18,""Energy"":0.67,""Financials"":0.21,""Health Care"":0.14,""Industrials"":0.31,""Information Technology"":0.86,""Materials"":0.44,""Real Estate"":-0.06,""Utilities"":0.09,""Communication Services"":0.63}"
+12_18_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":0.25,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.2,""Health Care"":0.1,""Industrials"":0.18,""Information Technology"":0.45,""Materials"":0.08,""Real Estate"":0.05,""Utilities"":0.02}"
+12_19_2024,"{
+  ""S&P 500"": 0.15,
+  ""Information Technology"": 0.05,
+  ""Health Care"": 0.12,
+  ""Financials"": 0.22,
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": 0.14,
+  ""Industrials"": 0.16,
+  ""Materials"": 0.1,
+  ""Utilities"": 0.06,
+  ""Real Estate"": -0.05,
+  ""Communication Services"": 0.09
+}"
+12_19_2025,"{""Communication Services"":0.25,""Consumer Discretionary"":-0.35,""Consumer Staples"":-0.15,""Energy"":0.2,""Financials"":0.15,""Health Care"":0.35,""Industrials"":0.3,""Information Technology"":0.4,""Materials"":0.05,""Real Estate"":-0.25,""Utilities"":0.2}"
+12_01_2025,"{""Communication Services"":0.45,""Consumer Discretionary"":0.35,""Consumer Staples"":0.25,""Energy"":0.15,""Financials"":0.1,""Health Care"":-0.05,""Industrials"":-0.15,""Information Technology"":0.05,""Materials"":0.2,""Real Estate"":-0.1,""Utilities"":0.0}"
+12_20_2024,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.3,""Consumer Staples"":0.25,""Energy"":0.15,""Financials"":-0.05,""Health Care"":-0.15,""Industrials"":-0.1,""Information Technology"":-0.2,""Materials"":-0.05,""Real Estate"":0.0,""Utilities"":0.05}"
+12_22_2025,"{
+  ""Communication Services"": 0.72,
+  ""Consumer Discretionary"": 0.38,
+  ""Consumer Staples"": 0.21,
+  ""Energy"": 0.58,
+  ""Financials"": 0.19,
+  ""Health Care"": 0.08,
+  ""Industrials"": 0.14,
+  ""Information Technology"": 0.65,
+  ""Materials"": 0.44,
+  ""Real Estate"": -0.07,
+  ""Utilities"": 0.05
+}"
+12_23_2024,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":0.1,""Energy"":-0.05,""Financials"":0.12,""Health Care"":0.08,""Industrials"":0.0,""Information Technology"":0.18,""Materials"":-0.02,""Real Estate"":-0.12,""Utilities"":0.0}"
+12_23_2025,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": 0.35,
+  ""Consumer Staples"": 0.2,
+  ""Energy"": 0.05,
+  ""Financials"": 0.15,
+  ""Health Care"": 0.65,
+  ""Industrials"": 0.3,
+  ""Information Technology"": 0.4,
+  ""Materials"": 0.45,
+  ""Real Estate"": 0.1,
+  ""Utilities"": 0.15
+}"
+12_24_2024,"{""Communication Services"":0.45,""Consumer Discretionary"":0.55,""Consumer Staples"":0.35,""Energy"":0.4,""Financials"":0.3,""Health Care"":-0.1,""Industrials"":0.5,""Information Technology"":0.65,""Materials"":0.15,""Real Estate"":-0.05,""Utilities"":0.05}"
+12_24_2025,"{
+  ""communication_services"": 0.15,
+  ""consumer_discretionary"": 0.28,
+  ""consumer_staples"": 0.12,
+  ""energy"": 0.05,
+  ""financials"": 0.08,
+  ""health_care"": 0.22,
+  ""industrials"": 0.1,
+  ""information_technology"": 0.14,
+  ""materials"": 0.32,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.02
+}"
+12_26_2024,"{""Information Technology"":0.2,""Health Care"":0.05,""Financials"":-0.25,""Consumer Discretionary"":0.15,""Consumer Staples"":0.1,""Energy"":0.35,""Materials"":0.25,""Industrials"":0.1,""Utilities"":0.05,""Real Estate"":0.0,""Communication Services"":0.2,""Basic Materials"":0.25}"
+12_26_2025,"{""Communication Services"":0.35,""Consumer Discretionary"":0.22,""Consumer Staples"":0.12,""Energy"":0.28,""Financials"":0.18,""Health Care"":0.42,""Industrials"":0.24,""Information Technology"":0.33,""Materials"":0.57,""Real Estate"":-0.12,""Utilities"":0.05}"
+12_27_2024,"{
+  ""Energy"": 0.15,
+  ""Materials"": -0.1,
+  ""Industrials"": 0.1,
+  ""Consumer Discretionary"": 0.35,
+  ""Consumer Staples"": 0.2,
+  ""Health Care"": 0.0,
+  ""Financials"": 0.25,
+  ""Information Technology"": 0.6,
+  ""Communication Services"": 0.45,
+  ""Utilities"": -0.05,
+  ""Real Estate"": -0.1
+}"
+12_29_2025,"{""Communication Services"":0.29,""Consumer Discretionary"":0.41,""Consumer Staples"":0.18,""Energy"":0.25,""Financials"":0.22,""Health Care"":0.05,""Industrials"":0.34,""Information Technology"":0.62,""Materials"":0.48,""Real Estate"":0.14,""Utilities"":0.11}"
+12_02_2025,"{""Communication Services"":0.72,""Consumer Discretionary"":0.48,""Consumer Staples"":0.22,""Energy"":0.11,""Financials"":0.34,""Health Care"":0.18,""Industrials"":0.29,""Information Technology"":0.63,""Materials"":0.27,""Real Estate"":0.08,""Utilities"":0.05}"
+12_30_2024,"{
+  ""information_technology"": 0.72,
+  ""health_care"": 0.34,
+  ""financials"": 0.41,
+  ""consumer_discretionary"": 0.18,
+  ""consumer_staples"": 0.12,
+  ""industrials"": 0.15,
+  ""materials"": 0.22,
+  ""energy"": -0.08,
+  ""utilities"": 0.2,
+  ""real_estate"": -0.22,
+  ""communication_services"": 0.5
+}"
+12_30_2025,"{""Communication Services"":0.2,""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":0.1,""Health Care"":0.2,""Industrials"":0.35,""Information Technology"":0.45,""Materials"":0.6,""Real Estate"":-0.05,""Utilities"":0.0}"
+12_31_2024,"{""Communication Services"":0.38,""Consumer Discretionary"":0.46,""Consumer Staples"":0.12,""Energy"":-0.08,""Financials"":0.22,""Health Care"":0.05,""Industrials"":0.18,""Materials"":0.29,""Real Estate"":0.31,""Technology"":0.57,""Utilities"":0.14}"
+12_31_2025,"{""communication_services"":0.35,""consumer_discretionary"":0.15,""consumer_staples"":0.05,""energy"":-0.1,""financials"":0.25,""health_care"":0.2,""industrials"":0.3,""information_technology"":0.45,""materials"":0.4,""real_estate"":0.1,""utilities"":0.2}"
+12_04_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": 0.25,
+  ""Energy"": 0.05,
+  ""Financials"": -0.05,
+  ""Health Care"": 0.1,
+  ""Industrials"": -0.1,
+  ""Information Technology"": -0.2,
+  ""Materials"": -0.05,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.0
+}"
+12_05_2025,"{""Consumer Discretionary"":0.62,""Consumer Staples"":0.38,""Energy"":0.71,""Financials"":0.48,""Health Care"":0.56,""Industrials"":0.41,""Information Technology"":0.74,""Materials"":0.66,""Real Estate"":0.29,""Utilities"":0.58,""Communication Services"":0.52}"
+12_08_2025,"{
+  ""Communication Services"": 0.65,
+  ""Consumer Discretionary"": 0.4,
+  ""Consumer Staples"": 0.2,
+  ""Energy"": 0.35,
+  ""Financials"": 0.55,
+  ""Health Care"": 0.25,
+  ""Industrials"": 0.45,
+  ""Information Technology"": 0.7,
+  ""Materials"": 0.6,
+  ""Real Estate"": 0.15,
+  ""Utilities"": 0.05
+}"
+12_09_2025,"{
+  ""Communication Services"": 0.76,
+  ""Consumer Discretionary"": 0.28,
+  ""Consumer Staples"": 0.19,
+  ""Energy"": 0.06,
+  ""Financials"": 0.22,
+  ""Health Care"": 0.21,
+  ""Industrials"": 0.18,
+  ""Information Technology"": 0.67,
+  ""Materials"": -0.04,
+  ""Real Estate"": -0.18,
+  ""Utilities"": 0.03
+}"
+01_12_2026,"{
+  ""Information Technology"": 0.1,
+  ""Health Care"": 0.0,
+  ""Financials"": -0.55,
+  ""Consumer Discretionary"": -0.15,
+  ""Consumer Staples"": 0.2,
+  ""Energy"": -0.2,
+  ""Industrials"": 0.05,
+  ""Materials"": 0.15,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.3,
+  ""Communication Services"": 0.05
+}"
+01_13_2026,"{""consumer_discretionary"":0.38,""consumer_staples"":0.12,""energy"":0.22,""financials"":0.74,""health_care"":0.31,""industrials"":0.41,""information_technology"":0.68,""materials"":0.27,""real_estate"":0.05,""utilities"":0.18,""communication_services"":0.36}"
+01_14_2026,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.2,
+  ""Financials"": 0.25,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.3,
+  ""Information Technology"": 0.15,
+  ""Materials"": 0.55,
+  ""Real Estate"": -0.15,
+  ""Utilities"": -0.05
+}"
+01_15_2026,"{
+  ""InformationTechnology"": 0.8,
+  ""HealthCare"": 0.1,
+  ""Financials"": 0.2,
+  ""ConsumerDiscretionary"": 0.1,
+  ""ConsumerStaples"": 0.0,
+  ""Energy"": 0.3,
+  ""Industrials"": 0.2,
+  ""Materials"": 0.4,
+  ""Utilities"": 0.0,
+  ""RealEstate"": 0.2,
+  ""CommunicationServices"": 0.4,
+  ""Unknown"": 0.0
+}"
+01_16_2026,"{
+  ""communication_services"": 0.35,
+  ""consumer_discretionary"": 0.45,
+  ""consumer_staples"": 0.1,
+  ""energy"": -0.25,
+  ""financials"": 0.4,
+  ""health_care"": 0.15,
+  ""industrials"": 0.3,
+  ""information_technology"": 0.5,
+  ""materials"": 0.05,
+  ""real_estate"": 0.2,
+  ""utilities"": 0.25
+}"
+01_20_2026,"{""Consumer Discretionary"":0.05,""Consumer Staples"":-0.1,""Energy"":0.15,""Financials"":0.22,""Health Care"":0.18,""Industrials"":0.12,""Information Technology"":0.28,""Materials"":0.08,""Real Estate"":-0.12,""Utilities"":0.09,""Communication Services"":0.2}"
+01_21_2026,"{
+  ""communication_services"": 0.15,
+  ""consumer_discretionary"": 0.25,
+  ""consumer_staples"": 0.1,
+  ""energy"": 0.35,
+  ""financials"": 0.2,
+  ""health_care"": -0.05,
+  ""industrials"": 0.3,
+  ""information_technology"": 0.15,
+  ""materials"": 0.4,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.3
+}"
+01_23_2026,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":0.1,""Energy"":0.25,""Financials"":0.0,""Health Care"":0.05,""Industrials"":0.2,""Information Technology"":-0.1,""Materials"":0.1,""Real Estate"":0.0,""Utilities"":0.05}"
+01_26_2026,"{
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.15,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.0,
+  ""Information Technology"": 0.2,
+  ""Materials"": 0.35,
+  ""Real Estate"": -0.05,
+  ""Communication Services"": 0.05,
+  ""Utilities"": 0.1
+}"
+01_28_2026,"{""Communication Services"":0.25,""Consumer Discretionary"":0.4,""Consumer Staples"":0.05,""Energy"":0.45,""Financials"":0.2,""Health Care"":0.1,""Industrials"":0.35,""Information Technology"":0.7,""Materials"":0.5,""Real Estate"":0.0,""Utilities"":-0.05}"
+01_29_2026,"{""Communication Services"":0.68,""Consumer Discretionary"":0.57,""Consumer Staples"":0.18,""Energy"":0.46,""Financials"":0.12,""Health Care"":0.03,""Industrials"":0.39,""Information Technology"":0.73,""Materials"":0.81,""Real Estate"":0.08,""Utilities"":0.21}"
+01_02_2026,"{""Communication Services"":0.2,""Consumer Discretionary"":0.1,""Consumer Staples"":0.05,""Energy"":0.15,""Financials"":0.25,""Health Care"":0.1,""Industrials"":0.2,""Information Technology"":0.75,""Materials"":0.45,""Real Estate"":0.0,""Utilities"":0.1}"
+01_30_2026,"{
+  ""communication_services"": 0.1,
+  ""consumer_discretionary"": 0.15,
+  ""consumer_staples"": 0.0,
+  ""energy"": -0.2,
+  ""financials"": -0.25,
+  ""health_care"": -0.05,
+  ""industrials"": 0.05,
+  ""information_technology"": 0.2,
+  ""materials"": -0.15,
+  ""real_estate"": -0.2,
+  ""utilities"": -0.1
+}"
+01_05_2026,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.72,
+  ""Financials"": 0.08,
+  ""Health Care"": 0.22,
+  ""Industrials"": 0.18,
+  ""Information Technology"": 0.28,
+  ""Materials"": 0.12,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.02
+}"
+01_06_2026,"{""Communication Services"":0.64,""Consumer Discretionary"":0.52,""Consumer Staples"":0.08,""Energy"":0.31,""Financials"":0.12,""Health Care"":0.18,""Industrials"":0.41,""Information Technology"":0.86,""Materials"":0.29,""Real Estate"":0.22,""Utilities"":0.05}"
+01_07_2026,"{""Communication Services"":0.35,""Consumer Discretionary"":0.25,""Consumer Staples"":0.1,""Energy"":0.2,""Financials"":0.18,""Health Care"":0.22,""Industrials"":0.3,""Information Technology"":0.55,""Materials"":0.4,""Real Estate"":0.15,""Utilities"":0.12}"
+01_08_2026,"{""Communication Services"":0.15,""Consumer Discretionary"":0.1,""Consumer Staples"":-0.05,""Energy"":0.35,""Financials"":0.15,""Health Care"":0.05,""Industrials"":0.45,""Information Technology"":0.2,""Materials"":0.2,""Real Estate"":0.05,""Utilities"":0.1}"
+02_10_2026,"{""Communication Services"":0.35,""Consumer Discretionary"":0.05,""Consumer Staples"":-0.15,""Energy"":0.2,""Financials"":0.1,""Health Care"":0.0,""Industrials"":0.15,""Information Technology"":0.45,""Materials"":0.1,""Real Estate"":-0.05,""Utilities"":0.1}"
+02_12_2026,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.05,""Consumer Staples"":0.45,""Energy"":0.1,""Financials"":-0.2,""Health Care"":0.05,""Industrials"":0.2,""Information Technology"":0.05,""Materials"":0.25,""Real Estate"":-0.35,""Utilities"":0.05}"
+02_13_2026,"{
+  ""Communication Services"": 0.32,
+  ""Consumer Discretionary"": -0.18,
+  ""Consumer Staples"": 0.78,
+  ""Energy"": 0.22,
+  ""Financials"": -0.31,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.18,
+  ""Information Technology"": -0.46,
+  ""Materials"": 0.12,
+  ""Real Estate"": -0.34,
+  ""Utilities"": 0.24
+}"
+02_17_2026,"{""communication_services"":0.28,""consumer_discretionary"":-0.12,""consumer_staples"":0.46,""energy"":0.18,""financials"":-0.3,""health_care"":0.12,""industrials"":0.16,""information_technology"":-0.44,""materials"":0.09,""real_estate"":-0.08,""utilities"":0.38}"
+02_18_2026,"{""Communication Services"":0.1,""Consumer Discretionary"":0.2,""Consumer Staples"":0.35,""Energy"":0.15,""Financials"":-0.1,""Health Care"":0.0,""Industrials"":0.2,""Information Technology"":0.05,""Materials"":0.1,""Real Estate"":0.05,""Utilities"":0.0}"
+02_19_2026,"{
+  ""communication_services"": -0.05,
+  ""consumer_discretionary"": 0.05,
+  ""consumer_staples"": 0.25,
+  ""energy"": 0.55,
+  ""financials"": -0.1,
+  ""health_care"": 0.05,
+  ""industrials"": 0.15,
+  ""information_technology"": 0.2,
+  ""materials"": 0.1,
+  ""real_estate"": -0.15,
+  ""utilities"": 0.0
+}"
+02_20_2026,"{""Communication Services"":0.2,""Consumer Discretionary"":0.15,""Consumer Staples"":0.35,""Energy"":0.1,""Financials"":-0.35,""Health Care"":-0.2,""Industrials"":0.1,""Information Technology"":0.05,""Materials"":0.0,""Real Estate"":-0.1,""Utilities"":-0.05}"
+02_23_2026,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.18,""Consumer Staples"":-0.08,""Energy"":0.05,""Financials"":-0.22,""Health Care"":0.18,""Industrials"":-0.26,""Information Technology"":0.28,""Materials"":-0.31,""Real Estate"":-0.05,""Utilities"":0.02}"
+02_24_2026,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.25,""Consumer Staples"":0.1,""Energy"":0.35,""Financials"":-0.45,""Health Care"":0.15,""Industrials"":0.05,""Information Technology"":-0.2,""Materials"":0.2,""Real Estate"":0.1,""Utilities"":0.3}"
+02_25_2026,"{""Communication Services"":0.12,""Consumer Discretionary"":0.18,""Consumer Staples"":0.24,""Energy"":0.28,""Financials"":-0.18,""Health Care"":0.05,""Industrials"":0.16,""Information Technology"":0.33,""Materials"":0.07,""Real Estate"":-0.14,""Utilities"":0.1}"
+02_26_2026,"{
+  ""S&P 500"": 0.05,
+  ""Information Technology"": 0.12,
+  ""Communication Services"": 0.03,
+  ""Consumer Discretionary"": 0.01,
+  ""Consumer Staples"": 0.02,
+  ""Health Care"": 0.0,
+  ""Financials"": 0.04,
+  ""Industrials"": 0.06,
+  ""Materials"": 0.05,
+  ""Energy"": -0.04,
+  ""Utilities"": 0.07,
+  ""Real Estate"": -0.01
+}"
+02_27_2026,"{
+  ""sector_sentiment"": {
+    ""Information Technology"": 0.7,
+    ""Communication Services"": 0.2,
+    ""Consumer Discretionary"": -0.4,
+    ""Consumer Staples"": 0.1,
+    ""Financials"": -0.2,
+    ""Health Care"": 0.1,
+    ""Industrials"": 0.3,
+    ""Energy"": -0.1,
+    ""Materials"": -0.1,
+    ""Real Estate"": 0.2,
+    ""Utilities"": 0.1
+  }
+}"
+02_02_2026,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":0.02,""Energy"":-0.35,""Financials"":0.1,""Health Care"":0.0,""Industrials"":0.08,""Information Technology"":-0.12,""Materials"":-0.25,""Real Estate"":-0.05,""Utilities"":0.0}"
+02_03_2026,"{""communication_services"":0.55,""consumer_discretionary"":0.25,""consumer_staples"":-0.15,""energy"":0.35,""financials"":0.4,""health_care"":-0.2,""industrials"":0.1,""information_technology"":0.65,""materials"":0.3,""real_estate"":0.05,""utilities"":0.45}"
+02_04_2026,"{""Communication Services"":0.55,""Consumer Discretionary"":0.15,""Consumer Staples"":0.35,""Energy"":0.05,""Financials"":-0.25,""Health Care"":0.4,""Industrials"":0.3,""Information Technology"":-0.6,""Materials"":0.2,""Real Estate"":0.1,""Utilities"":0.05}"
+02_06_2026,"{
+  ""Information Technology"": 0.15,
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.05,
+  ""Financials"": 0.02,
+  ""Health Care"": -0.15,
+  ""Industrials"": 0.08,
+  ""Materials"": 0.06,
+  ""Energy"": 0.03,
+  ""Utilities"": 0.04,
+  ""Real Estate"": 0.07
+}"
+02_09_2026,"{""communication_services"":0.85,""consumer_discretionary"":0.25,""consumer_staples"":0.15,""energy"":0.35,""financials"":0.55,""health_care"":-0.1,""industrials"":0.45,""information_technology"":0.2,""materials"":0.6,""real_estate"":0.05,""utilities"":0.1}"
+03_10_2026,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.15,""Consumer Staples"":0.02,""Energy"":0.35,""Financials"":0.0,""Health Care"":0.05,""Industrials"":-0.1,""Information Technology"":0.1,""Materials"":0.0,""Real Estate"":-0.05,""Utilities"":0.08}"
+03_11_2026,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.35,""Consumer Staples"":0.15,""Energy"":0.85,""Financials"":-0.1,""Health Care"":0.1,""Industrials"":-0.25,""Information Technology"":0.2,""Materials"":0.3,""Real Estate"":-0.2,""Utilities"":0.05}"
+03_12_2026,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": -0.1,
+  ""consumer_staples"": 0.15,
+  ""energy"": 0.85,
+  ""financials"": -0.2,
+  ""health_care"": 0.0,
+  ""industrials"": -0.35,
+  ""information_technology"": 0.1,
+  ""materials"": 0.55,
+  ""real_estate"": -0.25,
+  ""utilities"": 0.1
+}"
+03_13_2026,"{
+  ""communication_services"": -0.1,
+  ""consumer_discretionary"": -0.25,
+  ""consumer_staples"": -0.05,
+  ""energy"": 0.8,
+  ""financials"": -0.15,
+  ""health_care"": 0.05,
+  ""industrials"": -0.35,
+  ""information_technology"": -0.3,
+  ""materials"": 0.15,
+  ""real_estate"": -0.2,
+  ""utilities"": 0.1
+}"
+03_16_2026,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.1,""Consumer Staples"":0.05,""Energy"":0.85,""Financials"":-0.35,""Health Care"":0.05,""Industrials"":-0.15,""Information Technology"":0.15,""Materials"":0.3,""Real Estate"":-0.25,""Utilities"":0.0}"
+03_17_2026,"{
+  ""communication_services"": 0.25,
+  ""consumer_discretionary"": 0.35,
+  ""consumer_staples"": -0.1,
+  ""energy"": 0.75,
+  ""financials"": -0.2,
+  ""health_care"": 0.1,
+  ""industrials"": -0.05,
+  ""information_technology"": 0.55,
+  ""materials"": 0.2,
+  ""real_estate"": -0.15,
+  ""utilities"": -0.05
+}"
+03_18_2026,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.1,""Consumer Staples"":-0.35,""Energy"":0.85,""Financials"":-0.15,""Health Care"":-0.05,""Industrials"":0.1,""Information Technology"":0.2,""Materials"":0.25,""Real Estate"":-0.25,""Utilities"":-0.05}"
+03_19_2026,"{""Consumer Discretionary"":-0.12,""Consumer Staples"":-0.06,""Energy"":0.82,""Financials"":-0.18,""Health Care"":0.05,""Industrials"":-0.22,""Information Technology"":0.14,""Materials"":-0.31,""Real Estate"":-0.25,""Utilities"":-0.16}"
+03_20_2026,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.35,""Consumer Staples"":0.1,""Energy"":0.9,""Financials"":-0.15,""Health Care"":0.05,""Industrials"":-0.1,""Information Technology"":-0.25,""Materials"":-0.05,""Real Estate"":-0.2,""Utilities"":0.1}"
+03_24_2026,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": 0.15,
+  ""consumer_staples"": -0.1,
+  ""energy"": 0.85,
+  ""financials"": -0.05,
+  ""health_care"": -0.1,
+  ""industrials"": -0.2,
+  ""information_technology"": 0.1,
+  ""materials"": 0.05,
+  ""real_estate"": -0.25,
+  ""utilities"": -0.35
+}"
+03_02_2026,"{
+  ""Information Technology"": -0.15,
+  ""Health Care"": -0.05,
+  ""Financials"": -0.2,
+  ""Consumer Discretionary"": -0.65,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.85,
+  ""Utilities"": -0.15,
+  ""Industrials"": -0.35,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.3,
+  ""Communication Services"": -0.2
+}"
+03_03_2026,"{""Consumer Discretionary"":-0.85,""Consumer Staples"":0.35,""Energy"":0.95,""Financials"":-0.65,""Health Care"":0.0,""Industrials"":-0.25,""Information Technology"":-0.55,""Materials"":0.15,""Real Estate"":-0.2,""Utilities"":-0.1}"
+03_04_2026,"{""Communication Services"":-0.05,""Consumer Discretionary"":0.15,""Consumer Staples"":0.1,""Energy"":0.85,""Financials"":-0.25,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":0.0,""Materials"":0.2,""Real Estate"":-0.2,""Utilities"":0.1}"
+03_05_2026,"{
+  ""Information Technology"": 0.7,
+  ""Energy"": 0.85,
+  ""Utilities"": 0.25,
+  ""Financials"": -0.15,
+  ""Health Care"": 0.1,
+  ""Consumer Discretionary"": -0.05,
+  ""Consumer Staples"": 0.15,
+  ""Industrials"": 0.05,
+  ""Materials"": 0.1,
+  ""Real Estate"": 0.2,
+  ""Communication Services"": 0.45
+}"
+03_06_2026,"{
+  ""Communication Services"": 0.08,
+  ""Consumer Discretionary"": -0.24,
+  ""Consumer Staples"": -0.12,
+  ""Energy"": 0.78,
+  ""Financials"": -0.28,
+  ""Health Care"": -0.2,
+  ""Industrials"": -0.34,
+  ""Information Technology"": -0.18,
+  ""Materials"": 0.12,
+  ""Real Estate"": -0.36,
+  ""Utilities"": -0.22
+}"
+03_09_2026,"{""Communication Services"":0.05,""Consumer Discretionary"":-0.45,""Consumer Staples"":-0.15,""Energy"":0.85,""Financials"":-0.35,""Health Care"":0.0,""Industrials"":-0.25,""Information Technology"":-0.1,""Materials"":0.25,""Real Estate"":-0.2,""Utilities"":-0.1}"
+05_27_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.05,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.05,""Health Care"":0.0,""Industrials"":-0.1,""Information Technology"":0.2,""Materials"":-0.05,""Real Estate"":0.0,""Utilities"":0.05}"
+05_28_2025,"{
+  ""information_technology"": 0.2,
+  ""communication_services"": 0.1,
+  ""consumer_discretionary"": 0.15,
+  ""consumer_staples"": 0.05,
+  ""health_care"": -0.05,
+  ""financials"": 0.1,
+  ""industrials"": 0.0,
+  ""materials"": -0.1,
+  ""energy"": 0.0,
+  ""utilities"": 0.05,
+  ""real_estate"": -0.05
+}"
+05_29_2025,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": 0.1,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.7,
+  ""Materials"": -0.05,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.0
+}"
+05_30_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": -0.1,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.12,
+  ""Financials"": 0.08,
+  ""Health Care"": 0.1,
+  ""Industrials"": -0.05,
+  ""Information Technology"": 0.02,
+  ""Materials"": -0.08,
+  ""Real Estate"": -0.12,
+  ""Utilities"": 0.0
+}"
+06_10_2025,"{""Communication Services"":0.2,""Consumer Discretionary"":0.05,""Consumer Staples"":-0.15,""Energy"":-0.05,""Financials"":0.1,""Health Care"":0.0,""Industrials"":0.15,""Information Technology"":0.2,""Materials"":0.05,""Real Estate"":0.0,""Utilities"":0.05}"
+06_11_2025,"{""Financials"":0.35,""Health Care"":0.1,""Information Technology"":0.28,""Communication Services"":0.22,""Consumer Discretionary"":0.18,""Consumer Staples"":0.05,""Energy"":0.12,""Utilities"":0.0,""Industrials"":0.14,""Materials"":0.26,""Real Estate"":0.08}"
+06_12_2025,"{
+  ""communication_services"": 0.1,
+  ""consumer_discretionary"": -0.35,
+  ""consumer_staples"": -0.05,
+  ""energy"": -0.15,
+  ""financials"": -0.25,
+  ""health_care"": -0.2,
+  ""industrials"": -0.3,
+  ""information_technology"": 0.15,
+  ""materials"": -0.1,
+  ""real_estate"": -0.2,
+  ""utilities"": 0.0
+}"
+06_13_2025,"{""Information Technology"":0.25,""Health Care"":0.0,""Financials"":0.1,""Consumer Discretionary"":-0.15,""Consumer Staples"":-0.05,""Energy"":0.85,""Industrials"":0.2,""Materials"":0.35,""Utilities"":0.05,""Real Estate"":-0.1,""Communication Services"":-0.05}"
+06_16_2025,"{""S&P 500"":{""sentiment"":-0.15},""Information Technology"":{""sentiment"":0.12},""Health Care"":{""sentiment"":-0.28},""Financials"":{""sentiment"":-0.18},""Consumer Discretionary"":{""sentiment"":-0.2},""Consumer Staples"":{""sentiment"":-0.05},""Energy"":{""sentiment"":0.22},""Utilities"":{""sentiment"":-0.02},""Industrials"":{""sentiment"":-0.1},""Materials"":{""sentiment"":-0.12},""Real Estate"":{""sentiment"":-0.22},""Communication Services"":{""sentiment"":0.08}}"
+06_17_2025,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": -0.2,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.55,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.2,
+  ""Information Technology"": 0.4,
+  ""Materials"": 0.25,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.05
+}"
+06_18_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": 0.0,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.2,
+  ""Financials"": -0.05,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.15,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.1
+}"
+06_20_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":0.35,""Financials"":0.2,""Health Care"":0.0,""Industrials"":0.1,""Information Technology"":0.18,""Materials"":0.05,""Real Estate"":0.02,""Utilities"":0.12}"
+06_23_2025,"{
+  ""communication_services"": 0.05,
+  ""consumer_discretionary"": -0.15,
+  ""consumer_staples"": 0.0,
+  ""energy"": 0.45,
+  ""financials"": 0.05,
+  ""health_care"": -0.1,
+  ""industrials"": 0.1,
+  ""information_technology"": 0.0,
+  ""materials"": 0.05,
+  ""real_estate"": -0.1,
+  ""utilities"": 0.15
+}"
+06_24_2025,"{
+  ""Communication Services"": 0.22,
+  ""Consumer Discretionary"": 0.3,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.62,
+  ""Financials"": 0.12,
+  ""Health Care"": 0.18,
+  ""Industrials"": 0.28,
+  ""Information Technology"": 0.34,
+  ""Materials"": 0.08,
+  ""Real Estate"": 0.1,
+  ""Utilities"": 0.14
+}"
+06_25_2025,"{""communication_services"":0.45,""consumer_discretionary"":0.25,""consumer_staples"":-0.15,""energy"":0.2,""financials"":0.35,""health_care"":0.05,""industrials"":0.4,""information_technology"":0.55,""materials"":0.3,""real_estate"":0.1,""utilities"":0.05}"
+06_26_2025,"{""Communication Services"":0.2,""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":0.0,""Financials"":0.35,""Health Care"":0.1,""Industrials"":0.25,""Information Technology"":0.45,""Materials"":0.1,""Real Estate"":0.05,""Utilities"":0.15}"
+06_27_2025,"{""communication_services"":0.2,""consumer_discretionary"":0.45,""consumer_staples"":0.15,""energy"":0.35,""financials"":0.2,""health_care"":0.1,""industrials"":0.3,""information_technology"":0.65,""materials"":0.15,""real_estate"":0.05,""utilities"":0.2}"
+06_30_2025,"{
+  ""Communication Services"": 0.55,
+  ""Consumer Discretionary"": 0.3,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.1,
+  ""Financials"": 0.35,
+  ""Health Care"": -0.15,
+  ""Industrials"": 0.2,
+  ""Information Technology"": 0.6,
+  ""Materials"": -0.2,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.45
+}"
+06_03_2025,"{
+  ""communication_services"": 0.25,
+  ""consumer_discretionary"": -0.05,
+  ""consumer_staples"": 0.15,
+  ""energy"": -0.1,
+  ""financials"": 0.05,
+  ""health_care"": -0.05,
+  ""industrials"": 0.0,
+  ""information_technology"": 0.3,
+  ""materials"": -0.15,
+  ""real_estate"": -0.05,
+  ""utilities"": 0.2
+}"
+06_04_2025,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.1,
+  ""Financials"": 0.25,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.2,
+  ""Information Technology"": 0.3,
+  ""Materials"": 0.0,
+  ""Real Estate"": 0.05,
+  ""Utilities"": 0.05
+}"
+06_05_2025,"{""CommunicationServices"":0.28,""ConsumerDiscretionary"":0.12,""ConsumerStaples"":0.05,""Energy"":-0.08,""Financials"":0.1,""HealthCare"":0.02,""Industrials"":-0.12,""InformationTechnology"":0.42,""Materials"":-0.05,""RealEstate"":0.03,""Utilities"":0.08}"
+06_06_2025,"{""Consumer Discretionary"":0.15,""Consumer Staples"":0.05,""Energy"":0.08,""Financials"":0.12,""Health Care"":0.18,""Industrials"":0.22,""Information Technology"":0.28,""Materials"":0.1,""Real Estate"":0.07,""Utilities"":0.04,""Communication Services"":0.16}"
+06_09_2025,"{
+  ""communication_services"": 0.72,
+  ""consumer_discretionary"": 0.38,
+  ""consumer_staples"": 0.1,
+  ""energy"": 0.18,
+  ""financials"": 0.22,
+  ""health_care"": 0.05,
+  ""industrials"": -0.05,
+  ""information_technology"": 0.78,
+  ""materials"": 0.12,
+  ""real_estate"": -0.08,
+  ""utilities"": 0.03
+}"
+07_10_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":0.1,""Energy"":0.2,""Financials"":0.05,""Health Care"":0.0,""Industrials"":0.1,""Information Technology"":0.45,""Materials"":0.35,""Real Estate"":-0.15,""Utilities"":0.0}"
+07_11_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": -0.05,
+  ""Financials"": 0.18,
+  ""Health Care"": 0.12,
+  ""Industrials"": 0.05,
+  ""Information Technology"": 0.28,
+  ""Materials"": -0.1,
+  ""Real Estate"": 0.02,
+  ""Utilities"": 0.03
+}"
+07_14_2025,"{
+  ""Consumer Discretionary"": -0.1,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.05,
+  ""Financials"": -0.2,
+  ""Health Care"": -0.15,
+  ""Industrials"": -0.25,
+  ""Information Technology"": -0.1,
+  ""Materials"": -0.3,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.0,
+  ""Communication Services"": 0.1
+}"
+07_15_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.2,
+  ""Financials"": 0.45,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.0,
+  ""Information Technology"": 0.75,
+  ""Materials"": 0.3,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.0
+}"
+07_18_2025,"{
+  ""Information Technology"": 0.72,
+  ""Health Care"": 0.12,
+  ""Financials"": 0.48,
+  ""Consumer Discretionary"": 0.55,
+  ""Consumer Staples"": 0.18,
+  ""Energy"": 0.31,
+  ""Industrials"": 0.26,
+  ""Materials"": 0.22,
+  ""Utilities"": 0.15,
+  ""Real Estate"": 0.34,
+  ""Communication Services"": 0.62,
+  ""S&P 500"": 0.57
+}"
+07_01_2025,"{""Communication Services"":0.25,""Consumer Discretionary"":0.05,""Consumer Staples"":0.1,""Energy"":0.0,""Financials"":0.1,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":0.0,""Materials"":-0.05,""Real Estate"":0.0,""Utilities"":0.15}"
+07_21_2025,"{""Consumer Discretionary"":0.3,""Consumer Staples"":0.15,""Energy"":0.2,""Financials"":0.35,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":0.55,""Materials"":0.0,""Real Estate"":-0.05,""Utilities"":0.05}"
+07_22_2025,"{""Communication Services"":0.2,""Consumer Discretionary"":0.1,""Consumer Staples"":0.25,""Energy"":0.0,""Financials"":0.15,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":0.05,""Materials"":0.0,""Real Estate"":-0.1,""Utilities"":0.0}"
+07_23_2025,"{""Communication Services"":0.82,""Consumer Discretionary"":0.48,""Consumer Staples"":0.12,""Energy"":0.18,""Financials"":0.25,""Health Care"":0.05,""Industrials"":0.31,""Information Technology"":0.87,""Materials"":0.22,""Real Estate"":0.14,""Utilities"":0.08}"
+07_24_2025,"{
+  ""sector_sentiment"": {
+    ""information_technology"": 0.82,
+    ""communication_services"": 0.76,
+    ""consumer_discretionary"": -0.36,
+    ""consumer_staples"": -0.18,
+    ""health_care"": 0.05,
+    ""financials"": 0.18,
+    ""industrials"": 0.12,
+    ""materials"": 0.08,
+    ""energy"": -0.12,
+    ""utilities"": 0.14,
+    ""real_estate"": 0.06
+  }
+}"
+07_25_2025,"{""communication_services"":0.55,""consumer_discretionary"":0.35,""consumer_staples"":-0.1,""energy"":0.45,""financials"":0.2,""health_care"":0.0,""industrials"":0.15,""information_technology"":0.7,""materials"":0.25,""real_estate"":-0.3,""utilities"":0.1}"
+07_28_2025,"{
+  ""Information_Technology"": 0.8,
+  ""Communication_Services"": 0.45,
+  ""Consumer_Discretionary"": 0.35,
+  ""Consumer_Staples"": 0.05,
+  ""Energy"": 0.55,
+  ""Financials"": 0.15,
+  ""Health_Care"": 0.1,
+  ""Industrials"": 0.25,
+  ""Materials"": 0.2,
+  ""Real_Estate"": 0.0,
+  ""Utilities"": 0.1
+}"
+07_29_2025,"{
+  ""Communication Services"": 0.22,
+  ""Consumer Discretionary"": 0.12,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.18,
+  ""Financials"": 0.16,
+  ""Health Care"": -0.34,
+  ""Industrials"": 0.09,
+  ""Information Technology"": 0.28,
+  ""Materials"": -0.08,
+  ""Real Estate"": -0.15,
+  ""Utilities"": 0.02
+}"
+07_02_2025,"{
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.0,
+  ""Financials"": 0.4,
+  ""Health Care"": -0.5,
+  ""Industrials"": 0.0,
+  ""Information Technology"": 0.3,
+  ""Materials"": 0.0,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.0
+}"
+07_30_2025,"{""Communication Services"":0.72,""Consumer Discretionary"":0.38,""Consumer Staples"":0.12,""Energy"":0.08,""Financials"":0.22,""Health Care"":0.15,""Industrials"":0.18,""Information Technology"":0.78,""Materials"":-0.14,""Real Estate"":-0.18,""Utilities"":0.05}"
+07_31_2025,"{""communication_services"":0.9,""consumer_discretionary"":0.75,""consumer_staples"":0.15,""energy"":0.1,""financials"":0.35,""health_care"":-0.2,""industrials"":0.3,""information_technology"":0.95,""materials"":0.05,""real_estate"":0.25,""utilities"":0.2}"
+07_07_2025,"{
+  ""Communication Services"": 0.1,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.15,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.05,
+  ""Information Technology"": -0.2,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.05
+}"
+07_08_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":-0.05,""Consumer Staples"":-0.1,""Energy"":-0.15,""Financials"":-0.05,""Health Care"":0.0,""Industrials"":-0.2,""Information Technology"":0.1,""Materials"":-0.25,""Real Estate"":-0.1,""Utilities"":-0.05}"
+07_09_2025,"{""Consumer Discretionary"":0.1,""Consumer Staples"":0.0,""Energy"":-0.1,""Financials"":0.05,""Health Care"":-0.2,""Industrials"":-0.15,""Information Technology"":0.25,""Materials"":-0.45,""Real Estate"":-0.05,""Utilities"":-0.1,""Communication Services"":0.15}"
+08_11_2025,"{""Communication Services"":0.4,""Consumer Discretionary"":0.3,""Consumer Staples"":-0.2,""Energy"":0.1,""Financials"":0.2,""Health Care"":0.1,""Industrials"":0.0,""Information Technology"":0.35,""Materials"":0.15,""Real Estate"":-0.1,""Utilities"":0.0}"
+08_12_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.05,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.05,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.1,
+  ""Utilities"": -0.05
+}"
+08_13_2025,"{
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.1,
+  ""Financials"": 0.35,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.1,
+  ""Information Technology"": 0.4,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.15,
+  ""Communication Services"": 0.3,
+  ""Utilities"": -0.05
+}"
+08_14_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":0.05,""Consumer Staples"":-0.05,""Energy"":-0.1,""Financials"":0.15,""Health Care"":0.0,""Industrials"":-0.15,""Information Technology"":0.25,""Materials"":-0.2,""Real Estate"":-0.1,""Utilities"":-0.05}"
+08_15_2025,"{
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.09,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.12,
+  ""Financials"": 0.07,
+  ""Health Care"": 0.22,
+  ""Industrials"": 0.12,
+  ""Information Technology"": 0.28,
+  ""Materials"": -0.08,
+  ""Real Estate"": 0.02,
+  ""Utilities"": -0.04
+}"
+08_18_2025,"{""Communication Services"":0.35,""Consumer Discretionary"":0.15,""Consumer Staples"":0.1,""Energy"":-0.2,""Financials"":0.05,""Health Care"":0.25,""Industrials"":0.1,""Information Technology"":0.2,""Materials"":0.0,""Real Estate"":-0.05,""Utilities"":0.05}"
+08_19_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":0.35,""Consumer Staples"":0.15,""Energy"":0.05,""Financials"":0.1,""Health Care"":0.2,""Industrials"":0.25,""Information Technology"":0.45,""Materials"":0.05,""Real Estate"":-0.15,""Utilities"":0.1}"
+08_01_2025,"{
+  ""InformationTechnology"": 0.15,
+  ""HealthCare"": -0.05,
+  ""Financials"": -0.08,
+  ""ConsumerDiscretionary"": -0.2,
+  ""ConsumerStaples"": -0.1,
+  ""Energy"": -0.02,
+  ""Utilities"": 0.05,
+  ""Industrials"": -0.18,
+  ""Materials"": -0.22,
+  ""RealEstate"": 0.12,
+  ""CommunicationServices"": 0.1
+}"
+08_20_2025,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": -0.35,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.2,
+  ""Financials"": -0.1,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.1,
+  ""Information Technology"": -0.25,
+  ""Materials"": 0.05,
+  ""Real Estate"": -0.3,
+  ""Utilities"": 0.0
+}"
+08_21_2025,"{
+  ""Information Technology"": -0.75,
+  ""Financials"": -0.15,
+  ""Health Care"": -0.55,
+  ""Consumer Discretionary"": -0.35,
+  ""Consumer Staples"": -0.05,
+  ""Industrials"": 0.25,
+  ""Energy"": -0.1,
+  ""Utilities"": 0.2,
+  ""Real Estate"": -0.25,
+  ""Materials"": 0.05,
+  ""Communication Services"": -0.7,
+  ""Semiconductors"": -0.8
+}"
+08_22_2025,"{
+  ""XLY"": 0.2,
+  ""XLP"": 0.15,
+  ""XLE"": 0.05,
+  ""XLF"": 0.1,
+  ""XLV"": 0.05,
+  ""XLI"": 0.1,
+  ""XLK"": 0.12,
+  ""XLC"": 0.08,
+  ""XLU"": 0.0,
+  ""XLRE"": -0.05,
+  ""XLB"": 0.02
+}"
+08_25_2025,"{
+  ""InformationTechnology"": 0.45,
+  ""CommunicationServices"": 0.1,
+  ""ConsumerDiscretionary"": -0.15,
+  ""ConsumerStaples"": -0.2,
+  ""HealthCare"": 0.15,
+  ""Financials"": 0.25,
+  ""Industrials"": 0.2,
+  ""Materials"": -0.05,
+  ""Energy"": 0.0,
+  ""Utilities"": -0.1,
+  ""RealEstate"": -0.25,
+  ""S&P500"": 0.05
+}"
+08_26_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.08,
+  ""Consumer Staples"": 0.18,
+  ""Energy"": -0.02,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.22,
+  ""Industrials"": 0.04,
+  ""Information Technology"": -0.03,
+  ""Materials"": -0.01,
+  ""Real Estate"": 0.18,
+  ""Utilities"": 0.14
+}"
+08_27_2025,"{
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": 0.03,
+  ""Financials"": -0.12,
+  ""Health Care"": 0.17,
+  ""Industrials"": 0.08,
+  ""Information Technology"": 0.36,
+  ""Materials"": -0.02,
+  ""Real Estate"": 0.14,
+  ""Utilities"": -0.05
+}"
+08_28_2025,"{""Information Technology"":0.78,""Communication Services"":0.55,""Consumer Discretionary"":0.31,""Consumer Staples"":0.14,""Financials"":0.46,""Health Care"":0.05,""Industrials"":0.39,""Materials"":0.12,""Energy"":0.08,""Utilities"":0.04,""Real Estate"":0.22}"
+08_29_2025,"{""Consumer Discretionary"":0.45,""Consumer Staples"":0.35,""Energy"":-0.1,""Financials"":0.05,""Health Care"":0.1,""Industrials"":-0.2,""Information Technology"":0.55,""Materials"":-0.35,""Real Estate"":0.0,""Utilities"":0.05,""Communication Services"":0.4}"
+08_04_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.22,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": -0.12,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.18,
+  ""Information Technology"": 0.28,
+  ""Materials"": -0.22,
+  ""Real Estate"": -0.05,
+  ""Utilities"": 0.02
+}"
+08_05_2025,"{
+  ""InformationTechnology"": 0.93,
+  ""HealthCare"": 0.08,
+  ""Financials"": 0.22,
+  ""ConsumerDiscretionary"": 0.34,
+  ""ConsumerStaples"": -0.12,
+  ""Energy"": -0.18,
+  ""Industrials"": 0.11,
+  ""Materials"": -0.05,
+  ""Utilities"": 0.06,
+  ""RealEstate"": 0.14,
+  ""CommunicationServices"": 0.72,
+  ""BasicMaterials"": -0.05
+}"
+08_06_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":0.05,""Consumer Staples"":0.35,""Energy"":-0.05,""Financials"":0.1,""Health Care"":-0.1,""Industrials"":0.0,""Information Technology"":0.2,""Materials"":-0.05,""Real Estate"":0.0,""Utilities"":0.0}"
+08_07_2025,"{
+  ""Consumer Discretionary"": 0.55,
+  ""Consumer Staples"": 0.2,
+  ""Energy"": 0.15,
+  ""Financials"": 0.25,
+  ""Health Care"": -0.15,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.7,
+  ""Materials"": 0.05,
+  ""Real Estate"": 0.2,
+  ""Utilities"": 0.05
+}"
+08_08_2025,"{""communication_services"":0.5,""consumer_discretionary"":0.3,""consumer_staples"":0.1,""energy"":0.1,""financials"":0.2,""health_care"":0.0,""industrials"":0.15,""information_technology"":0.35,""materials"":0.05,""real_estate"":0.0,""utilities"":0.05}"
+09_10_2025,"{
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.22,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.08,
+  ""Financials"": 0.12,
+  ""Health Care"": -0.06,
+  ""Industrials"": -0.02,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.03,
+  ""Real Estate"": 0.16,
+  ""Utilities"": 0.07
+}"
+09_11_2025,"{
+  ""Information Technology"": 0.85,
+  ""Health Care"": 0.15,
+  ""Financials"": 0.55,
+  ""Consumer Discretionary"": 0.7,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": 0.05,
+  ""Industrials"": 0.45,
+  ""Materials"": 0.2,
+  ""Utilities"": 0.1,
+  ""Real Estate"": 0.35,
+  ""Communication Services"": 0.8
+}"
+09_12_2025,"{
+  ""Information Technology"": 0.72,
+  ""Health Care"": 0.08,
+  ""Financials"": 0.34,
+  ""Consumer Discretionary"": 0.41,
+  ""Consumer Staples"": -0.12,
+  ""Energy"": 0.18,
+  ""Industrials"": 0.24,
+  ""Materials"": 0.19,
+  ""Utilities"": 0.27,
+  ""Real Estate"": 0.14,
+  ""Communication Services"": 0.55
+}"
+09_15_2025,"{
+  ""Information Technology"": -0.35,
+  ""Communication Services"": 0.12,
+  ""Consumer Discretionary"": 0.18,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.08,
+  ""Financials"": 0.22,
+  ""Health Care"": 0.04,
+  ""Industrials"": 0.17,
+  ""Materials"": -0.1,
+  ""Real Estate"": 0.24,
+  ""Utilities"": 0.09
+}"
+09_16_2025,"{""Financials"":0.28,""Health Care"":0.12,""Information Technology"":0.72,""Communication Services"":0.61,""Consumer Discretionary"":0.34,""Consumer Staples"":0.18,""Energy"":0.05,""Industrials"":0.22,""Materials"":0.09,""Utilities"":0.14,""Real Estate"":0.16}"
+09_18_2025,"{""Consumer Discretionary"":0.42,""Consumer Staples"":0.08,""Energy"":0.12,""Financials"":0.25,""Health Care"":0.58,""Industrials"":0.34,""Information Technology"":0.83,""Materials"":0.18,""Real Estate"":0.37,""Communication Services"":0.46,""Utilities"":0.22}"
+09_19_2025,"{""Communication Services"":0.55,""Consumer Discretionary"":0.2,""Consumer Staples"":0.15,""Energy"":0.1,""Financials"":0.25,""Health Care"":0.05,""Industrials"":0.4,""Information Technology"":0.7,""Materials"":0.15,""Real Estate"":0.05,""Utilities"":0.3}"
+09_22_2025,"{""communication_services"":0.35,""consumer_discretionary"":0.15,""consumer_staples"":0.05,""energy"":0.2,""financials"":0.28,""health_care"":0.1,""industrials"":0.12,""information_technology"":0.18,""materials"":0.08,""real_estate"":0.05,""utilities"":0.1}"
+09_23_2025,"{
+  ""Communication Services"": 0.7,
+  ""Consumer Discretionary"": 0.65,
+  ""Consumer Staples"": -0.1,
+  ""Energy"": 0.25,
+  ""Financials"": 0.2,
+  ""Health Care"": -0.15,
+  ""Industrials"": 0.3,
+  ""Information Technology"": 0.8,
+  ""Materials"": 0.15,
+  ""Real Estate"": 0.2,
+  ""Utilities"": 0.35
+}"
+09_24_2025,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.28,
+  ""Consumer Staples"": 0.08,
+  ""Energy"": 0.22,
+  ""Financials"": 0.31,
+  ""Health Care"": 0.12,
+  ""Industrials"": 0.24,
+  ""Information Technology"": 0.62,
+  ""Materials"": 0.26,
+  ""Real Estate"": 0.05,
+  ""Utilities"": 0.18
+}"
+09_25_2025,"{""S&P 500"":{""sentiment"":0.1},""Information Technology"":{""sentiment"":0.55},""Communication Services"":{""sentiment"":0.2},""Consumer Discretionary"":{""sentiment"":0.15},""Consumer Staples"":{""sentiment"":-0.05},""Health Care"":{""sentiment"":0.05},""Financials"":{""sentiment"":0.1},""Industrials"":{""sentiment"":0.2},""Materials"":{""sentiment"":0.15},""Energy"":{""sentiment"":0.0},""Utilities"":{""sentiment"":0.05},""Real Estate"":{""sentiment"":-0.1}}"
+09_26_2025,"{""Communication Services"":0.2,""Consumer Discretionary"":-0.15,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":0.15,""Health Care"":-0.2,""Industrials"":0.05,""Information Technology"":0.25,""Materials"":0.0,""Real Estate"":-0.1,""Utilities"":0.0}"
+09_29_2025,"{
+  ""Communication Services"": 0.58,
+  ""Consumer Discretionary"": 0.72,
+  ""Consumer Staples"": -0.08,
+  ""Energy"": 0.12,
+  ""Financials"": 0.31,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.18,
+  ""Information Technology"": 0.81,
+  ""Materials"": 0.22,
+  ""Real Estate"": 0.19,
+  ""Utilities"": 0.04
+}"
+09_02_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":0.0,""Consumer Staples"":0.15,""Energy"":0.35,""Financials"":-0.1,""Health Care"":0.05,""Industrials"":0.2,""Information Technology"":-0.05,""Materials"":0.3,""Real Estate"":0.2,""Utilities"":0.25}"
+09_30_2025,"{
+  ""communication_services"": 0.2,
+  ""consumer_discretionary"": -0.1,
+  ""consumer_staples"": 0.1,
+  ""energy"": -0.2,
+  ""financials"": 0.4,
+  ""health_care"": 0.15,
+  ""industrials"": 0.0,
+  ""information_technology"": 0.35,
+  ""materials"": 0.25,
+  ""real_estate"": -0.05,
+  ""utilities"": 0.1
+}"
+09_03_2025,"{
+  ""Communication Services"": 0.8,
+  ""Consumer Discretionary"": 0.7,
+  ""Consumer Staples"": 0.3,
+  ""Energy"": -0.2,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.0,
+  ""Information Technology"": 0.9,
+  ""Materials"": 0.6,
+  ""Real Estate"": 0.0,
+  ""Utilities"": -0.1
+}"
+09_04_2025,"{""communication_services"":0.05,""consumer_discretionary"":0.25,""consumer_staples"":0.05,""energy"":0.1,""financials"":0.15,""health_care"":0.05,""industrials"":0.1,""information_technology"":0.3,""materials"":0.08,""real_estate"":0.12,""utilities"":0.07}"
+09_05_2025,"{""CommunicationServices"":0.35,""ConsumerDiscretionary"":0.45,""ConsumerStaples"":0.1,""Energy"":0.2,""Financials"":0.25,""HealthCare"":-0.05,""Industrials"":0.15,""InformationTechnology"":0.5,""Materials"":0.35,""RealEstate"":0.3,""Utilities"":0.05}"
+09_08_2025,"{""Consumer Discretionary"":0.35,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":0.45,""Health Care"":0.15,""Industrials"":0.25,""Information Technology"":0.4,""Materials"":0.05,""Real Estate"":0.3,""Utilities"":0.1}"
+09_09_2025,"{
+  ""Communication Services"": 0.55,
+  ""Consumer Discretionary"": 0.28,
+  ""Consumer Staples"": -0.18,
+  ""Energy"": -0.12,
+  ""Financials"": 0.22,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.08,
+  ""Information Technology"": 0.42,
+  ""Materials"": 0.14,
+  ""Real Estate"": 0.02,
+  ""Utilities"": -0.22
+}"
+08_23_2024,"{""Energy"":0.35,""Materials"":0.25,""Industrials"":0.4,""Consumer Discretionary"":0.3,""Consumer Staples"":0.15,""Health Care"":0.1,""Financials"":0.45,""Information Technology"":0.2,""Communication Services"":0.15,""Utilities"":0.05,""Real Estate"":0.5}"
+08_22_2025,"{
+  ""Information Technology"": 0.35,
+  ""Health Care"": 0.15,
+  ""Financials"": 0.28,
+  ""Consumer Discretionary"": 0.22,
+  ""Consumer Staples"": 0.05,
+  ""Industrials"": 0.18,
+  ""Energy"": 0.03,
+  ""Materials"": 0.08,
+  ""Utilities"": 0.1,
+  ""Real Estate"": 0.2,
+  ""Communication Services"": 0.3
+}"
+07_31_2024,"{
+  ""Communication Services"": 0.12,
+  ""Consumer Discretionary"": 0.28,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.18,
+  ""Financials"": 0.24,
+  ""Health Care"": 0.07,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.32,
+  ""Materials"": 0.02,
+  ""Real Estate"": 0.41,
+  ""Utilities"": 0.18
+}"
+11_07_2024,"{
+  ""Consumer Discretionary"": 0.6,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.25,
+  ""Financials"": 0.65,
+  ""Health Care"": 0.15,
+  ""Industrials"": 0.35,
+  ""Information Technology"": 0.5,
+  ""Materials"": 0.2,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.1
+}"
+12_10_2025,"{
+  ""S&P 500"": 0.25,
+  ""Information Technology"": 0.45,
+  ""Health Care"": 0.1,
+  ""Financials"": 0.2,
+  ""Consumer Discretionary"": 0.3,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.05,
+  ""Utilities"": 0.1,
+  ""Industrials"": 0.2,
+  ""Materials"": 0.15,
+  ""Real Estate"": 0.35,
+  ""Communication Services"": 0.3
+}"
+01_28_2025,"{""communication_services"":0.25,""consumer_discretionary"":0.35,""consumer_staples"":0.1,""energy"":0.15,""financials"":0.2,""health_care"":0.05,""industrials"":0.18,""information_technology"":0.4,""materials"":0.12,""real_estate"":0.08,""utilities"":0.05}"
+03_18_2026,"{""Communication Services"":-0.05,""Consumer Discretionary"":-0.35,""Consumer Staples"":-0.15,""Energy"":0.65,""Financials"":-0.2,""Health Care"":-0.05,""Industrials"":-0.25,""Information Technology"":-0.1,""Materials"":0.15,""Real Estate"":-0.25,""Utilities"":-0.15}"
+06_04_2024,"{
+  ""Communication Services"": 0.05,
+  ""Consumer Discretionary"": -0.15,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": -0.75,
+  ""Financials"": -0.1,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.35,
+  ""Information Technology"": 0.1,
+  ""Materials"": -0.25,
+  ""Real Estate"": -0.2,
+  ""Utilities"": -0.05
+}"
+02_26_2024,"{""Communication Services"":0.3,""Consumer Discretionary"":0.2,""Consumer Staples"":0.05,""Energy"":-0.05,""Financials"":0.15,""Health Care"":0.0,""Industrials"":0.1,""Information Technology"":0.8,""Materials"":0.05,""Real Estate"":-0.2,""Utilities"":0.0}"
+01_24_2024,"{""Communication Services"":0.82,""Consumer Discretionary"":0.48,""Consumer Staples"":0.12,""Energy"":-0.18,""Financials"":0.08,""Health Care"":0.05,""Industrials"":0.14,""Information Technology"":0.84,""Materials"":0.03,""Real Estate"":0.21,""Utilities"":0.02}"
+06_21_2024,"{""communication_services"":0.18,""consumer_discretionary"":-0.12,""consumer_staples"":0.14,""energy"":0.05,""financials"":-0.08,""health_care"":0.08,""industrials"":-0.18,""information_technology"":-0.06,""materials"":-0.1,""real_estate"":-0.22,""utilities"":0.07}"
+10_15_2024,"{""InformationTechnology"":0.86,""HealthCare"":0.18,""Financials"":0.92,""ConsumerDiscretionary"":0.24,""ConsumerStaples"":0.12,""Energy"":-0.78,""Industrials"":0.35,""Materials"":-0.22,""Utilities"":0.58,""RealEstate"":0.27,""CommunicationServices"":0.74,""S&P500"":0.61}"
+02_13_2024,"{
+  ""XLY"": -0.15,
+  ""XLP"": 0.1,
+  ""XLE"": 0.05,
+  ""XLF"": -0.25,
+  ""XLV"": 0.0,
+  ""XLI"": 0.05,
+  ""XLB"": 0.0,
+  ""XLRE"": -0.3,
+  ""XLU"": 0.1,
+  ""XLK"": -0.1,
+  ""Communication Services"": -0.05
+}"
+03_12_2024,"{""Financials"":0.1,""Health Care"":0.25,""Information Technology"":0.15,""Consumer Discretionary"":0.2,""Consumer Staples"":0.05,""Energy"":-0.1,""Industrials"":0.0,""Materials"":0.05,""Utilities"":0.0,""Real Estate"":-0.05,""Communication Services"":0.1}"
+05_15_2024,"{""s&p_500_sectors"":{""Communication Services"":0.45,""Consumer Discretionary"":0.55,""Consumer Staples"":0.05,""Energy"":0.1,""Financials"":0.3,""Health Care"":0.15,""Industrials"":0.2,""Information Technology"":0.4,""Materials"":0.25,""Real Estate"":0.1,""Utilities"":0.15}}"
+01_28_2025,"{
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": 0.02,
+  ""Energy"": -0.45,
+  ""Financials"": 0.08,
+  ""Health Care"": 0.03,
+  ""Industrials"": 0.14,
+  ""Information Technology"": -0.32,
+  ""Materials"": -0.28,
+  ""Real Estate"": 0.01,
+  ""Utilities"": -0.52,
+  ""Communication Services"": -0.08
+}"
+06_14_2024,"{
+  ""S&P 500"": 0.15,
+  ""Information Technology"": 0.35,
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": -0.05,
+  ""Consumer Staples"": 0.0,
+  ""Health Care"": 0.1,
+  ""Financials"": -0.2,
+  ""Industrials"": -0.05,
+  ""Materials"": 0.0,
+  ""Energy"": 0.1,
+  ""Utilities"": 0.25,
+  ""Real Estate"": 0.15
+}"
+04_30_2024,"{""Communication Services"":0.45,""Consumer Discretionary"":0.35,""Consumer Staples"":0.15,""Energy"":0.2,""Financials"":0.1,""Health Care"":0.2,""Industrials"":-0.15,""Information Technology"":0.4,""Materials"":0.05,""Real Estate"":-0.2,""Utilities"":0.1}"
+11_04_2025,"{""Communication Services"":0.62,""Consumer Discretionary"":0.18,""Consumer Staples"":-0.12,""Energy"":0.08,""Financials"":0.21,""Health Care"":0.17,""Industrials"":0.14,""Information Technology"":0.66,""Materials"":-0.05,""Real Estate"":-0.28,""Utilities"":0.12}"
+04_29_2024,"{
+  ""CommunicationServices"": 0.35,
+  ""ConsumerDiscretionary"": 0.45,
+  ""ConsumerStaples"": 0.15,
+  ""Energy"": 0.05,
+  ""Financials"": 0.2,
+  ""HealthCare"": 0.1,
+  ""Industrials"": 0.18,
+  ""InformationTechnology"": 0.55,
+  ""Materials"": 0.12,
+  ""RealEstate"": -0.15,
+  ""Utilities"": 0.1
+}"
+07_29_2024,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": -0.25,
+  ""Consumer Staples"": -0.2,
+  ""Energy"": 0.05,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.05,
+  ""Information Technology"": 0.3,
+  ""Materials"": -0.05,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.0
+}"
+09_17_2025,"{
+  ""communication_services"": 0.1,
+  ""consumer_discretionary"": 0.15,
+  ""consumer_staples"": -0.05,
+  ""energy"": -0.1,
+  ""financials"": 0.2,
+  ""health_care"": 0.0,
+  ""industrials"": 0.1,
+  ""information_technology"": 0.12,
+  ""materials"": -0.02,
+  ""real_estate"": 0.25,
+  ""utilities"": 0.18
+}"
+MISSING,"{""communication_services"":0,""consumer_discretionary"":0,""consumer_staples"":0,""energy"":0,""financials"":0,""health_care"":0,""industrials"":0,""information_technology"":0,""materials"":0,""real_estate"":0,""utilities"":0}"
+05_01_2024,"{""communication_services"":0.1,""consumer_discretionary"":-0.3,""consumer_staples"":-0.35,""energy"":0.25,""financials"":0.15,""health_care"":-0.4,""industrials"":0.1,""information_technology"":0.35,""materials"":0.15,""real_estate"":-0.5,""utilities"":-0.05}"
+06_12_2024,"{""Consumer Discretionary"":0.35,""Consumer Staples"":0.1,""Energy"":-0.05,""Financials"":0.15,""Health Care"":0.05,""Industrials"":0.2,""Information Technology"":0.7,""Materials"":0.05,""Real Estate"":0.3,""Utilities"":-0.05,""Communication Services"":0.4}"
+07_31_2024,"{""Communication Services"":0.24,""Consumer Discretionary"":-0.08,""Consumer Staples"":-0.12,""Energy"":0.31,""Financials"":0.12,""Health Care"":0.03,""Industrials"":0.18,""Information Technology"":0.54,""Materials"":0.2,""Real Estate"":-0.18,""Utilities"":0.05}"
+09_18_2024,"{""Communication Services"":0.18,""Consumer Discretionary"":0.22,""Consumer Staples"":0.12,""Energy"":0.08,""Financials"":0.35,""Health Care"":0.14,""Industrials"":0.11,""Information Technology"":0.24,""Materials"":0.19,""Real Estate"":0.28,""Utilities"":0.16}"
+12_18_2024,"{""Communication Services"":0.2,""Consumer Discretionary"":0.35,""Consumer Staples"":0.1,""Energy"":-0.1,""Financials"":0.45,""Health Care"":0.05,""Industrials"":0.4,""Information Technology"":0.55,""Materials"":0.2,""Real Estate"":-0.15,""Utilities"":0.3}"
+09_17_2025,"{""Financials"":0.2,""Health Care"":0.15,""Information Technology"":0.45,""Communication Services"":0.35,""Consumer Discretionary"":0.25,""Consumer Staples"":0.1,""Industrials"":0.2,""Materials"":0.15,""Energy"":0.1,""Utilities"":0.05,""Real Estate"":0.15}"
+06_13_2024,"{""Communication_Services"":0.58,""Consumer_Discretionary"":0.72,""Consumer_Staples"":0.12,""Energy"":-0.08,""Financials"":0.42,""Health_Care"":0.18,""Industrials"":0.34,""Information_Technology"":0.81,""Materials"":0.22,""Real_Estate"":0.27,""Utilities"":0.15}"
+09_19_2024,"{
+  ""Consumer Discretionary"": 0.74,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": 0.18,
+  ""Financials"": 0.63,
+  ""Health Care"": 0.21,
+  ""Industrials"": 0.58,
+  ""Information Technology"": 0.52,
+  ""Materials"": 0.14,
+  ""Real Estate"": 0.82,
+  ""Communication Services"": 0.31,
+  ""Utilities"": 0.05
+}"
+01_29_2025,"{""Communication Services"":0.15,""Consumer Discretionary"":0.25,""Consumer Staples"":0.05,""Energy"":-0.1,""Financials"":0.1,""Health Care"":0.05,""Industrials"":0.1,""Information Technology"":-0.25,""Materials"":-0.05,""Real Estate"":0.0,""Utilities"":0.05}"
+05_07_2025,"{""Communication Services"":0.05,""Consumer Discretionary"":0.12,""Consumer Staples"":0.06,""Energy"":0.0,""Financials"":0.18,""Health Care"":0.04,""Industrials"":0.02,""Information Technology"":0.1,""Materials"":-0.02,""Real Estate"":0.03,""Utilities"":0.01}"
+03_18_2024,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.28,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.22,
+  ""Financials"": 0.18,
+  ""Health Care"": 0.05,
+  ""Industrials"": -0.08,
+  ""Information Technology"": 0.62,
+  ""Materials"": 0.12,
+  ""Real Estate"": -0.22,
+  ""Utilities"": -0.18
+}"
+05_20_2024,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.2,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.1,
+  ""Financials"": 0.15,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.0,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.3,
+  ""Real Estate"": -0.1,
+  ""Utilities"": 0.0
+}"
+01_26_2024,"{
+  ""Communication Services"": 0.55,
+  ""Consumer Discretionary"": 0.42,
+  ""Consumer Staples"": 0.18,
+  ""Energy"": -0.22,
+  ""Financials"": 0.25,
+  ""Health Care"": 0.12,
+  ""Industrials"": 0.08,
+  ""Information Technology"": 0.48,
+  ""Materials"": -0.05,
+  ""Real Estate"": 0.2,
+  ""Utilities"": 0.15
+}"
+08_28_2024,"{
+  ""Communication Services"": 0.25,
+  ""Consumer Discretionary"": 0.15,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": -0.45,
+  ""Financials"": 0.05,
+  ""Health Care"": 0.05,
+  ""Industrials"": 0.1,
+  ""Information Technology"": 0.65,
+  ""Materials"": -0.1,
+  ""Real Estate"": 0.0,
+  ""Utilities"": 0.0
+}"
+02_24_2025,"{
+  ""communication_services"": 0.1,
+  ""consumer_discretionary"": -0.3,
+  ""consumer_staples"": 0.15,
+  ""energy"": -0.05,
+  ""financials"": -0.1,
+  ""health_care"": 0.2,
+  ""industrials"": -0.05,
+  ""information_technology"": 0.25,
+  ""materials"": -0.15,
+  ""real_estate"": -0.35,
+  ""utilities"": 0.1
+}"
+10_02_2025,"{
+  ""Communication Services"": 0.72,
+  ""Consumer Discretionary"": 0.66,
+  ""Consumer Staples"": 0.18,
+  ""Energy"": 0.22,
+  ""Financials"": 0.41,
+  ""Health Care"": 0.28,
+  ""Industrials"": 0.39,
+  ""Information Technology"": 0.82,
+  ""Materials"": 0.17,
+  ""Real Estate"": 0.24,
+  ""Utilities"": 0.31
+}"
+07_25_2024,"{""Information Technology"":0.18,""Health Care"":0.05,""Financials"":0.22,""Consumer Discretionary"":-0.48,""Consumer Staples"":-0.34,""Energy"":0.03,""Industrials"":-0.41,""Materials"":-0.29,""Utilities"":0.12,""Real Estate"":0.14,""Communication Services"":-0.12}"
+04_15_2024,"{""CommunicationServices"":0.2,""ConsumerDiscretionary"":0.0,""ConsumerStaples"":0.1,""Energy"":-0.2,""Financials"":0.45,""HealthCare"":0.05,""Industrials"":0.25,""InformationTechnology"":0.1,""Materials"":0.2,""RealEstate"":-0.1,""Utilities"":0.0}"
+MISSING,"{""communication_services"":0.05,""consumer_discretionary"":0.0,""consumer_staples"":0.0,""energy"":-0.6,""financials"":-0.1,""health_care"":0.0,""industrials"":-0.2,""information_technology"":0.0,""materials"":-0.35,""real_estate"":-0.05,""utilities"":-0.3}"
+03_08_2024,"{""Information Technology"":0.18,""Health Care"":0.12,""Financials"":0.22,""Consumer Discretionary"":0.16,""Consumer Staples"":0.05,""Energy"":0.1,""Industrials"":0.2,""Materials"":0.14,""Utilities"":-0.05,""Real Estate"":-0.08,""Communication Services"":0.1}"
+12_06_2024,"{
+  ""Information Technology"": 0.42,
+  ""Health Care"": 0.18,
+  ""Financials"": 0.25,
+  ""Consumer Discretionary"": 0.47,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.12,
+  ""Materials"": -0.08,
+  ""Industrials"": 0.14,
+  ""Utilities"": 0.02,
+  ""Real Estate"": 0.06,
+  ""Communication Services"": 0.22
+}"
+MISSING,"{""communication_services"":0.15,""consumer_discretionary"":0.1,""consumer_staples"":0.05,""energy"":0.35,""financials"":0.12,""health_care"":0.08,""industrials"":-0.05,""information_technology"":0.2,""materials"":0.05,""real_estate"":-0.1,""utilities"":0.18}"
+07_03_2025,"{
+  ""Information Technology"": 0.42,
+  ""Health Care"": 0.18,
+  ""Financials"": 0.12,
+  ""Consumer Discretionary"": 0.33,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": 0.08,
+  ""Utilities"": -0.02,
+  ""Industrials"": 0.2,
+  ""Materials"": 0.14,
+  ""Real Estate"": 0.06,
+  ""Communication Services"": 0.27,
+  ""S&P 500"": 0.24
+}"
+03_07_2025,"{
+  ""sector_sentiment"": {
+    ""Information Technology"": 0.15,
+    ""Communication Services"": 0.05,
+    ""Consumer Discretionary"": -0.2,
+    ""Consumer Staples"": 0.2,
+    ""Health Care"": 0.15,
+    ""Financials"": -0.05,
+    ""Industrials"": -0.25,
+    ""Materials"": -0.3,
+    ""Energy"": -0.35,
+    ""Utilities"": 0.1,
+    ""Real Estate"": 0.0
+  }
+}"
+MISSING,"{""Communication Services"":-0.7,""Consumer Discretionary"":-0.9,""Consumer Staples"":-0.4,""Energy"":-0.8,""Financials"":-0.95,""Health Care"":-0.2,""Industrials"":-0.85,""Information Technology"":-0.9,""Materials"":-0.75,""Real Estate"":-0.7,""Utilities"":-0.35}"
+08_06_2024,"{
+  ""Information Technology"": 0.45,
+  ""Communication Services"": 0.18,
+  ""Consumer Discretionary"": 0.05,
+  ""Consumer Staples"": 0.22,
+  ""Health Care"": 0.08,
+  ""Financials"": 0.12,
+  ""Industrials"": 0.14,
+  ""Materials"": -0.08,
+  ""Energy"": -0.28,
+  ""Utilities"": 0.18,
+  ""Real Estate"": -0.15
+}"
+03_04_2025,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.68,""Consumer Staples"":-0.18,""Energy"":-0.05,""Financials"":-0.22,""Health Care"":0.02,""Industrials"":-0.6,""Information Technology"":-0.55,""Materials"":-0.48,""Real Estate"":-0.25,""Utilities"":-0.08}"
+02_05_2024,"{
+  ""communication_services"": 0.2,
+  ""consumer_discretionary"": 0.35,
+  ""consumer_staples"": -0.1,
+  ""energy"": 0.15,
+  ""financials"": 0.25,
+  ""health_care"": 0.1,
+  ""industrials"": 0.2,
+  ""information_technology"": 0.4,
+  ""materials"": -0.05,
+  ""real_estate"": -0.3,
+  ""utilities"": 0.05
+}"
+03_06_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.18,""Consumer Staples"":0.05,""Energy"":0.08,""Financials"":0.14,""Health Care"":0.04,""Industrials"":0.22,""Information Technology"":-0.08,""Materials"":0.10,""Real Estate"":0.03,""Utilities"":0.02}"
+09_17_2024,"{
+  ""Information Technology"": 0.22,
+  ""Health Care"": 0.05,
+  ""Financials"": 0.18,
+  ""Consumer Discretionary"": 0.26,
+  ""Consumer Staples"": 0.12,
+  ""Energy"": -0.31,
+  ""Utilities"": 0.24,
+  ""Industrials"": 0.08,
+  ""Materials"": -0.18,
+  ""Real Estate"": 0.1,
+  ""Communication Services"": 0.17
+}"
+02_27_2024,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.05,
+  ""Financials"": 0.1,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.05,
+  ""Information Technology"": 0.2,
+  ""Materials"": 0.0,
+  ""Real Estate"": 0.05,
+  ""Utilities"": 0.0
+}"
+07_19_2024,"{""Communication Services"":0.34,""Consumer Discretionary"":-0.18,""Consumer Staples"":-0.1,""Energy"":0.18,""Financials"":-0.12,""Health Care"":-0.05,""Industrials"":-0.22,""Information Technology"":-0.48,""Materials"":-0.08,""Real Estate"":0.05,""Utilities"":0.02}"
+08_12_2024,"{
+  ""information_technology"": 0.05,
+  ""communication_services"": 0.0,
+  ""consumer_discretionary"": -0.2,
+  ""consumer_staples"": 0.1,
+  ""energy"": 0.15,
+  ""financials"": -0.1,
+  ""health_care"": 0.2,
+  ""industrials"": -0.05,
+  ""materials"": -0.1,
+  ""real_estate"": -0.25,
+  ""utilities"": 0.15
+}"
+10_14_2024,"{
+  ""communication_services"": 0.2,
+  ""consumer_discretionary"": -0.15,
+  ""consumer_staples"": 0.05,
+  ""energy"": 0.1,
+  ""financials"": 0.55,
+  ""health_care"": 0.15,
+  ""industrials"": 0.2,
+  ""information_technology"": 0.35,
+  ""materials"": 0.2,
+  ""real_estate"": -0.25,
+  ""utilities"": -0.1
+}"
+12_02_2024,"{""Communication Services"":0.2,""Consumer Discretionary"":0.35,""Consumer Staples"":0.1,""Energy"":0.05,""Financials"":0.25,""Health Care"":0.0,""Industrials"":0.15,""Information Technology"":0.05,""Materials"":-0.05,""Real Estate"":-0.1,""Utilities"":0.0}"
+03_18_2025,"{""Information Technology"":0.15,""Health Care"":0.05,""Financials"":-0.2,""Consumer Discretionary"":-0.45,""Consumer Staples"":-0.1,""Energy"":0.25,""Industrials"":0.2,""Materials"":0.1,""Utilities"":0.0,""Real Estate"":-0.25,""Communication Services"":0.1}"
+04_09_2025,"{""Communication Services"":0.1,""Consumer Discretionary"":-0.7,""Consumer Staples"":-0.2,""Energy"":-0.6,""Financials"":-0.4,""Health Care"":-0.6,""Industrials"":-0.7,""Information Technology"":-0.8,""Materials"":-0.5,""Real Estate"":-0.3,""Utilities"":-0.1}"
+08_07_2024,"{
+  ""Consumer Discretionary"": 0.35,
+  ""Consumer Staples"": -0.15,
+  ""Energy"": -0.25,
+  ""Financials"": 0.2,
+  ""Health Care"": 0.1,
+  ""Industrials"": -0.05,
+  ""Information Technology"": 0.45,
+  ""Materials"": 0.0,
+  ""Real Estate"": -0.2,
+  ""Communication Services"": 0.3,
+  ""Utilities"": 0.05
+}"
+12_09_2024,"{
+  ""Communication Services"": 0.35,
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": 0.45,
+  ""Financials"": 0.3,
+  ""Health Care"": 0.0,
+  ""Industrials"": 0.15,
+  ""Information Technology"": 0.2,
+  ""Materials"": 0.2,
+  ""Real Estate"": 0.05,
+  ""Utilities"": 0.0
+}"
+03_19_2025,"{
+  ""Information Technology"": 0.55,
+  ""Health Care"": 0.15,
+  ""Financials"": 0.2,
+  ""Consumer Discretionary"": 0.25,
+  ""Consumer Staples"": -0.05,
+  ""Energy"": 0.05,
+  ""Industrials"": -0.1,
+  ""Materials"": 0.1,
+  ""Utilities"": 0.0,
+  ""Real Estate"": -0.15,
+  ""Communication Services"": 0.35
+}"
+12_18_2024,"{""Communication Services"":0.12,""Consumer Discretionary"":-0.18,""Consumer Staples"":0.08,""Energy"":-0.14,""Financials"":-0.12,""Health Care"":0.02,""Industrials"":-0.16,""Information Technology"":-0.22,""Materials"":-0.1,""Real Estate"":-0.28,""Utilities"":-0.06}"
+03_20_2024,"{
+  ""Consumer Discretionary"": 0.45,
+  ""Consumer Staples"": 0.15,
+  ""Energy"": 0.05,
+  ""Financials"": 0.35,
+  ""Health Care"": 0.1,
+  ""Industrials"": 0.3,
+  ""Information Technology"": 0.6,
+  ""Materials"": 0.2,
+  ""Real Estate"": 0.25,
+  ""Communication Services"": 0.5,
+  ""Utilities"": 0.05
+}"
+01_23_2024,"{
+  ""S&P 500 Information Technology"": 0.62,
+  ""S&P 500 Health Care"": 0.18,
+  ""S&P 500 Financials"": 0.74,
+  ""S&P 500 Consumer Discretionary"": 0.56,
+  ""S&P 500 Consumer Staples"": 0.12,
+  ""S&P 500 Energy"": -0.08,
+  ""S&P 500 Utilities"": 0.05,
+  ""S&P 500 Real Estate"": 0.22,
+  ""S&P 500 Materials"": 0.14,
+  ""S&P 500 Industrials"": 0.31,
+  ""S&P 500 Communication Services"": 0.68
+}"
+03_05_2025,"{""communication_services"":0.15,""consumer_discretionary"":-0.35,""consumer_staples"":-0.1,""energy"":0.2,""financials"":-0.05,""health_care"":-0.1,""industrials"":0.12,""information_technology"":-0.2,""materials"":0.08,""real_estate"":0.05,""utilities"":0.1}"
+04_10_2025,"{
+  ""Information Technology"": -0.3,
+  ""Communication Services"": -0.2,
+  ""Consumer Discretionary"": -0.5,
+  ""Consumer Staples"": 0.1,
+  ""Energy"": -0.7,
+  ""Financials"": -0.4,
+  ""Health Care"": 0.0,
+  ""Industrials"": -0.6,
+  ""Materials"": -0.5,
+  ""Real Estate"": -0.4,
+  ""Utilities"": 0.0
+}"
+02_03_2025,"{
+  ""Consumer Discretionary"": -0.78,
+  ""Consumer Staples"": -0.28,
+  ""Energy"": -0.22,
+  ""Financials"": -0.34,
+  ""Health Care"": -0.1,
+  ""Industrials"": -0.74,
+  ""Information Technology"": -0.63,
+  ""Materials"": -0.56,
+  ""Real Estate"": -0.25,
+  ""Utilities"": -0.08
+}"
+04_13_2025,"{""Information Technology"":0.7,""Health Care"":0.1,""Financials"":0.15,""Consumer Discretionary"":0.35,""Consumer Staples"":0.05,""Energy"":-0.05,""Industrials"":0.0,""Materials"":-0.1,""Utilities"":0.0,""Real Estate"":-0.05,""Communication Services"":0.55,""S&P 500"":0.25}"
+04_03_2025,"{""Information Technology"":-0.85,""Health Care"":-0.55,""Financials"":-0.45,""Consumer Discretionary"":-0.95,""Consumer Staples"":-0.35,""Energy"":-0.25,""Utilities"":-0.15,""Industrials"":-0.8,""Materials"":-0.75,""Real Estate"":-0.7,""Communication Services"":-0.9}"
+11_06_2024,"{""Communication Services"":0.1,""Consumer Discretionary"":0.45,""Consumer Staples"":-0.05,""Energy"":0.15,""Financials"":0.85,""Health Care"":-0.2,""Industrials"":0.35,""Information Technology"":0.4,""Materials"":0.25,""Real Estate"":0.2,""Utilities"":-0.1}"
+01_10_2025,"{
+  ""Communication Services"": 0.15,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.05,
+  ""Energy"": -0.1,
+  ""Financials"": 0.12,
+  ""Health Care"": 0.08,
+  ""Industrials"": 0.05,
+  ""Information Technology"": 0.2,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.15,
+  ""Utilities"": -0.05
+}"
+02_07_2025,"{
+  ""CommunicationServices"": 0.3,
+  ""ConsumerDiscretionary"": 0.15,
+  ""ConsumerStaples"": 0.0,
+  ""Energy"": -0.2,
+  ""Financials"": 0.05,
+  ""HealthCare"": 0.05,
+  ""Industrials"": 0.1,
+  ""InformationTechnology"": 0.25,
+  ""Materials"": 0.0,
+  ""RealEstate"": -0.05,
+  ""Utilities"": 0.1
+}"
+06_20_2024,"{""Communication Services"":0.32,""Consumer Discretionary"":0.18,""Consumer Staples"":-0.08,""Energy"":0.12,""Financials"":0.06,""Health Care"":0.02,""Industrials"":0.04,""Information Technology"":0.45,""Materials"":0.01,""Real Estate"":-0.12,""Utilities"":-0.05}"
+02_07_2024,"{
+  ""Financials"": 0.05,
+  ""Health Care"": 0.0,
+  ""Information Technology"": 0.25,
+  ""Communication Services"": 0.2,
+  ""Consumer Discretionary"": 0.1,
+  ""Consumer Staples"": 0.0,
+  ""Energy"": -0.05,
+  ""Utilities"": 0.0,
+  ""Industrials"": 0.05,
+  ""Materials"": -0.05,
+  ""Real Estate"": -0.7,
+  ""S&P 500"": 0.1
+}"
