@@ -1,5 +1,5 @@
 """ 
-This module will be used to prompt google gemini to provide 
+This module will be used to prompt CHATGPT to provide 
 sentiment analysis scores based on the scraped transcripts
 """
 import os

@@ -17,12 +17,12 @@ Core sectors in the SP500
 
 
 Approach: 
-Prompt Google Gemini to score give a sentiment score to each core sector in
+Prompt Chatgpt to score give a sentiment score to each core sector in
 the SP500 from -1 to 1 based on the Bloomberg Surveillance transcript.
 
 Weakness:
 This approach is a black box method for conducting sentiment analysis.
-Gemini does not explicit provide reasoning for each score.
+LLM does not explicit provide methodology for each score.
 
 Benefit:
 Due to the large amount of data used to train LLM and personal use I feel confident
