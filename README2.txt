@@ -25,22 +25,5 @@ This approach is a black box method for conducting sentiment analysis.
 LLM does not explicit provide methodology for each score.
 
 Benefit:
-Due to the large amount of data used to train LLM and personal use I feel confident
-in its ability to detect sentiment. The exact value is still a blackbox however
-the model being used will be consistent therefore results / scoring be consistent.
-
-
-NOTE:
-
-Date was not provided to LLM when prompting for 
-sentiment scores in order to prevent data leakage/
-using stock data to influence analysis of the text.
-
-- Possibility that dates could be mentioned in the transcripts
-by the show hosts. 
-
-
-Note: 
-
-As with all nested models error from the sentiment scores produced 
-may grow in the final kalman filter estimator model. 
+Unlike word by word sentiment analysis. LLM is able to return a score taking into account context and attempt to tailor scores for 
+specific sector of the economy providing more informed results compared to just an average goog/bad word count. 
