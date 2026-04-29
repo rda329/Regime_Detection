@@ -12,6 +12,8 @@ Part 1: Create a headline scrapper
 Part 1.5: Look at the scraped data
 - Learn about sentiment analysis guidelines and pitfalls
 - Clean and Explore the scrapped data
+- Learn a little bit about each core sector in the SP500
+- Overlay Intraday volality with sentiment scores
 
 Part 2: Estimate the market sensitivity to headlines 
 
@@ -29,6 +31,8 @@ stdev / N = meu
 if meu = 1 , norm : normal b    
 if meu large high vol but low rel. news pressure : high sensitivity to news
 if meu small low vol. but large rel. new pressure : low sensetivity to news
+
+MODEL: Realized volatilty / Sentiment Score
 
 
 Part 4: Regimes
