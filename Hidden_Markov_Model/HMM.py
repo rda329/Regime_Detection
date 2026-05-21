@@ -30,6 +30,7 @@ class HMM_Pipeline:
     def __init__(self, num_regimes: int, n_mix: int = 2):
         self.num_regimes = num_regimes
         self.n_mix = n_mix
+        self.soft_classifications = None
 
     def HMM_pipeline(self, sector: str, ticker: str, training_data: pd.DataFrame, testing_data: pd.DataFrame, num_iterations) -> pd.DataFrame:
         trained_model = self._Fit(training_data.loc[:, [sector, f"{ticker} Volatility"]], num_iterations) #Fit model
@@ -48,6 +49,7 @@ class HMM_Pipeline:
         return model
     
     def _Predict(self, observation_cols: pd.DataFrame,trained_model: hmm.GMMHMM) -> np.array:
+        self.soft_classifications = trained_model.predict_proba(observation_cols)
         return trained_model.predict(observation_cols) #Returns array of hidden states and probability of belonging
         
     def _CheckConvergence(self, data_df, max_iter):
@@ -61,7 +63,8 @@ class HMM_Pipeline:
         plt.title("HMM Convergence")
         plt.tight_layout()
         plt.show()
-            
+
+    #Function to print stats of labels            
     def _StateMetrics(self, testing_data: pd.DataFrame) -> None:
         state_0 = testing_data.loc[testing_data["Predicted States"] == 0, :]
         state_1 = testing_data.loc[testing_data["Predicted States"] == 1, :]
@@ -70,7 +73,7 @@ class HMM_Pipeline:
 
         for state, df in {"State 0": state_0, "State 1": state_1}.items():
             print(f"\n{'='*40}")
-            print(f"  {state} Sentiment Score  (n={len(df)})")
+            print(f"  {state} (n={len(df)})")
             print(f"{'='*40}")
 
             print("\nMeans:")
